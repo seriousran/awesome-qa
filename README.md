@@ -21,7 +21,7 @@ A curated list of the Question Answering (QA) subject which is a computer scienc
 #### awesome
 [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome) <br/>
 [Contribution Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) <br/>
-[https://github.com/sindresorhus/awesome/blob/master/create-list.md](creating your own list) <br/>
+[creating your own list](https://github.com/sindresorhus/awesome/blob/master/create-list.md) <br/>
 
 ---
 
