@@ -12,16 +12,16 @@ A curated list of the Question Answering (QA) subject which is a computer scienc
 </p>
 
 #### 
-[MS MARCO](http://www.msmarco.org/dataset.aspx)
-[TriviaQA]()
-[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
-[NarrativeQA](https://github.com/deepmind/narrativeqa)
+[MS MARCO](http://www.msmarco.org/dataset.aspx) <br/>
+[TriviaQA]() <br/>
+[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) <br/>
+[NarrativeQA](https://github.com/deepmind/narrativeqa) <br/>
 - paper: https://arxiv.org/pdf/1712.07040v1.pdf
 
 #### awesome
-[awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
-[Contribution Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
-[https://github.com/sindresorhus/awesome/blob/master/create-list.md](creating your own list)
+[awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome) <br/>
+[Contribution Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) <br/>
+[https://github.com/sindresorhus/awesome/blob/master/create-list.md](creating your own list) <br/>
 
 ---
 
