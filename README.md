@@ -29,7 +29,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 
 |   | Dataset     |                     | Top Rank               | Model                  | over Human Performance |
 |---|-------------|---------------------|------------------------|------------------------|------------------------|
-| 0 | MS MARCO V2 | by Google           | Baidu NLP              | VNET                   | partialy               |
+| 0 | MS MARCO V2 | by Microsoft        | Baidu NLP              | VNET                   | partialy               |
 | 1 | TriviaQA    | Univ. of Washington | mingyan                | ?                      | ?                      |
 | 2 | SQuAD 2.0   | Univ. of Stanford   | Kangwon National Univ. | VS^3-NET(single model) | x                      |
 | 3 | NarrativeQA | Google DeepMind     |                        |                        |                        |
