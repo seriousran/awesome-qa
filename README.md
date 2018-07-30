@@ -38,8 +38,8 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - Amazon Echo | Alexa (2015), Google Home | Google Assistant (2016), INVOKE | MS Cortana (2017), HomePod (2017)
 
 ## QA Systems
-- [IBM Watson](https://www.ibm.com/watson/)
-- [Facebook DrQA](https://research.fb.com/downloads/drqa/)
+- [IBM Watson](https://www.ibm.com/watson/): has state-of-the-arts performance. 
+- [Facebook DrQA](https://research.fb.com/downloads/drqa/): Applied to the SQuAD1.0 dataset. The SQuAD2.0 dataset has released. but DrQA is not tested yet.
 
 ## Lectures
 - [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo) | by Dragomir Radev, Ph.D. | University of Michigan | 2016
@@ -53,36 +53,43 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - [sebastianruder's NLP-progess/Question answering](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md)
 
 ## Datasets
-- [AI2 Science Questions v2.1 (October 2017)](http://data.allenai.org/ai2-science-questions/)
-  - peper : http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
+- [AI2 Science Questions v2.1(2017)](http://data.allenai.org/ai2-science-questions/)
+  - It consists of questions used in student assessments in the United States across elementary and middle school grade levels. Each question is 4-way multiple choice format and may or may not include a diagram element.
+  - paper : http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
 - [Children's Book Test](https://uclmr.github.io/ai4exams/data.html)
+- It is one of the bAbI project of Facebook AI Research which is organized towards the goal of automatic text understanding and reasoning. The CBT is designed to measure directly how well language models can exploit wider linguistic context.
 - [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data)
+  - Hermann et al. (2015) created two awesome datasets using news articles for Q&A research. Each dataset contains many documents (90k and 197k each), and each document companies on average 4 questions approximately. Each question is a sentence with one missing word/phrase which can be found from the accompanying document/context.
   - paper: https://arxiv.org/abs/1506.03340
 - [GraphQuestions](https://github.com/ysu1989/GraphQuestions) <br/>
-  - On generating Characteristic-rich Question sets for QA evaluation  
+  - On generating Characteristic-rich Question sets for QA evaluation.
 - [LC-QuAD](http://sda.cs.uni-bonn.de/projects/qa-dataset/)
+  - It is a gold standard KBQA (Question Answering over Knowledge Base) dataset containing 5000 Question and SPARQL queries. LC-QuAD uses DBpedia v04.16 as the target KB.
 - [MS MARCO](http://www.msmarco.org/dataset.aspx) <br/>
-  - for real-world question answering
+  - This is for real-world question answering.
   - paper : https://arxiv.org/abs/1611.09268
 - [NarrativeQA](https://github.com/deepmind/narrativeqa) <br/>
-  - by: DeepMind
+  - It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
   - paper: https://arxiv.org/pdf/1712.07040v1.pdf
 - [NewsQA](https://github.com/Maluuba/newsqa) <br/>
   - A machine comprehension dataset
   - paper: https://arxiv.org/pdf/1611.09830.pdf
 - [Qestion-Answer Dataset by CMU](http://www.cs.cmu.edu/~ark/QA-data/)
+  - This is a corpus of Wikipedia articles, manually-generated factoid questions from them, and manually-generated answers to these questions, for use in academic research. These data were collected by Noah Smith, Michael Heilman, Rebecca Hwa, Shay Cohen, Kevin Gimpel, and many students at Carnegie Mellon University and the University of Pittsburgh between 2008 and 2010.
 - [SQuAD1.0]() <br/>
+  - Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
   - paper: https://arxiv.org/abs/1606.05250
 - [SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/) <br/>
-  - for automated question answering. 100,000+ questions for machine comprehension of text
+  - SQuAD2.0 combines the 100,000 questions in SQuAD1.1 with over 50,000 new, unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. To do well on SQuAD2.0, systems must not only answer questions when possible, but also determine when no answer is supported by the paragraph and abstain from answering.
   - paper: https://arxiv.org/abs/1806.03822
 -[Story cloze test](http://cs.rochester.edu/nlp/rocstories/)
+  - 'Story Cloze Test' is a new commonsense reasoning framework for evaluating story understanding, story generation, and script learning. This test requires a system to choose the correct ending to a four-sentence story.
   - paper: https://arxiv.org/abs/1604.01696
 - [TriviaQA](http://nlp.cs.washington.edu/triviaqa/) <br/>
-  - for complex compositional answersand multi-sentence reasoning
+  - TriviaQA is a reading comprehension dataset containing over 650K question-answer-evidence triples. TriviaQA includes 95K question-answer pairs authored by trivia enthusiasts and independently gathered evidence documents, six per question on average, that provide high quality distant supervision for answering the questions. 
   - paper: https://arxiv.org/abs/1705.03551
 - [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-US%2Fdownloads%2F4495da01-db8c-4041-a7f6-7984a4f6a905%2Fdefault.aspx)
-  - A challenge dataset for open-domain qustion answering
+  - A publicly available set of question and sentence pairs for open-domain question answering.
 
 ## Running Competitions in QA
 
