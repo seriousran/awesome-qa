@@ -112,7 +112,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 ## Books
 - Natural Language Question Answering system Paperback - Boris Galitsky (2003)
 - New Directions in Question Answering - Mark T. Maybury (2004)
-- Question Answering - Sanda Harabagiu and Dan Moldovan (2005)
+- Part 3. 5. Question Answering in The Oxford Handbook of Computational Linguistics - Sanda Harabagiu and Dan Moldovan (2005)
 - Chap.28 Question Answering in Speech and Language Processing - Daniel Jurafsky & James H. Martin (2017)
 
 ## Links
