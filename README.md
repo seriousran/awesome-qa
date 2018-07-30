@@ -19,13 +19,24 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   - Visual QA
 - Conversational QA: use previsous conversation turns
 
-### Lectures
+## Events
+- Wolfram Alpha launced the answer engine in 2009.
+- IBM Watson system defeated top *[Jeopardy!](https://www.jeopardy.com)* champions in 2011.
+- Apple's Siri integrated Wolfram Alpha's answer engine in 2011.
+- Google embraced QA by launching its Knowledge Graph, leveraging the free base knowledge base in 2012.
+- Amazon Echo|Alexa (2015), Google Home|Google Assistant (2016), INVOKE|MS Cortana (2017), HomePod (2017)
+
+## QA Systems
+- [IBM Watson](https://www.ibm.com/watson/)
+- [Facebook DrQA](https://research.fb.com/downloads/drqa/)
+
+## Lectures
 - [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo) | by Dragomir Radev, Ph.D. | University of Michigan | 2016
 
-### Tutorial
+## Tutorial
 - [Question Answering with Knowledge Bases, Web and Beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf) | by Scott Wen-tau Yih & Hao Ma | Microsoft Research | 2016
 
-### Competitions in QA
+## Competitions in QA
 - [MS MARCO](http://www.msmarco.org/dataset.aspx) <br/>
   - for real-world question answering
 - [TriviaQA]() <br/>
@@ -44,24 +55,15 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 | 1 | TriviaQA    | Univ. of Washington | mingyan                | ?                      | ?                      |
 | 2 | SQuAD 2.0   | Univ. of Stanford   | Kangwon National Univ. | VS^3-NET(single model) | x                      |
 | 3 | NarrativeQA | Google DeepMind     |                        |                        |                        |
-| 4 |  TREC QA track data | Univ. of Stanfod | 
----
 
-### Links
-
-Qeustion Answering with Tensorflow By Steven Hewitt, O'REILLY, 2017
-https://www.oreilly.com/ideas/question-answering-with-tensorflow
-
-AI2(Allen institute for artificial intelligence)'s datasets
-https://allenai.org/data/data-all.html
-
----
-
-### Publications
+## Publications
 - Papers
   - ["Introduction to “This is Watson"](https://ieeexplore.ieee.org/document/6177724/), IBM Journal of Research and Development, D. A. Ferrucci, 2012.
+  - ["A survey on question answering technology from an information retrieval perspective"](https://www.sciencedirect.com/science/article/pii/S0020025511003860), Information Sciences, 2011.
+  - ["Question Answering in Restricted Domains: An Overview"](https://www.mitpressjournals.org/doi/abs/10.1162/coli.2007.33.1.41), Diego Mollá and José Luis Vicedo, Computational Linguistics, 2007
+  - ["Natural language question answering: the view from here"], L Hirschman, R Gaizauskas, natural language engineering, 2001.
 
-#### The DeepQA Research Team in IBM Watson's publication within 5 years
+### The DeepQA Research Team in IBM Watson's publication within 5 years
 - 2015
   - "Automated Problem List Generation from Electronic Medical Records in IBM Watson", Murthy Devarakonda, Ching-Huei Tsou, IAAI, 2015.
   - ["Decision Making in IBM Watson Question Answering"](https://pdfs.semanticscholar.org/presentation/6285/0c8902f8e2a079b2fe356a73a21cea55c9d2.pdf), J. William Murdock, Ontology summit, 2015.
@@ -72,17 +74,30 @@ https://allenai.org/data/data-all.html
   - ["WatsonPaths: Scenario-based Question Answering and Inference over Unstructured Information"](http://domino.watson.ibm.com/library/Cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/088f74984a07645485257d5f006ace96!OpenDocument&Highlight=0,RC25489), Adam Lally, Sugato Bachi, Michael A. Barborak, David W. Buchanan, Jennifer Chu-Carroll, David A. Ferrucci*, Michael R. Glass, Aditya Kalyanpur, Erik T. Mueller, J. William Murdock, Siddharth Patwardhan, John M. Prager, Christopher A. Welty, IBM Research Report RC25489, 2014.
   - ["Medical Relation Extraction with Manifold Models"](http://acl2014.org/acl2014/P14-1/pdf/P14-1078.pdf), Chang Wang and James Fan, ACL, 2014.
 
-#### MS Research's publication within 5 years
+### MS Research's publication within 5 years
 - 2018
   - "Characterizing and Supporting Question Answering in Human-to-Human Communication", Xiao Yang, Ahmed Hassan Awadallah, Madian Khabsa, Wei Wang, Miaosen Wang, ACM SIGIR, 2018.
+  - ["FigureQA: An Annotated Figure Dataset for Visual Reasoning"](https://arxiv.org/abs/1710.07300), Samira Ebrahimi Kahou, Vincent Michalski, Adam Atkinson, Akos Kadar, Adam Trischler, Yoshua Bengio, ICLR, 2018
 - 2017
+  - "Multi-level Attention Networks for Visual Question Answering", Dongfei Yu, Jianlong Fu, Tao Mei, Yong Rui, CVPR, 2017.
   - "A Joint Model for Question Answering and Question Generation", Tong Wang, Xingdi (Eric) Yuan, Adam Trischler, ICML, 2017.
+  - "Two-Stage Synthesis Networks for Transfer Learning in Machine Comprehension", David Golub, Po-Sen Huang, Xiaodong He, Li Deng, EMNLP, 2017.
+  - "Question-Answering with Grammatically-Interpretable Representations", Hamid Palangi, Paul Smolensky, Xiaodong He, Li Deng, 
+  - "Search-based Neural Structured Learning for Sequential Question Answering", Mohit Iyyer, Wen-tau Yih, Ming-Wei Chang, ACL, 2017.
 - 2016
+  - ["Stacked Attention Networks for Image Question Answering"](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Stacked_Attention_Networks_CVPR_2016_paper.html), Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, CVPR, 2016.
   - ["Question Answering with Knowledge Base, Web and Beyond"](https://www.microsoft.com/en-us/research/publication/question-answering-with-knowledge-base-web-and-beyond/), Yih, Scott Wen-tau and Ma, Hao, ACM SIGIR, 2016.
+  - ["NewsQA: A Machine Comprehension Dataset"](https://arxiv.org/abs/1611.09830), Adam Trischler, Tong Wang, Xingdi Yuan, Justin Harris, Alessandro Sordoni, Philip Bachman, Kaheer Suleman, RepL4NLP, 2016.
+  - ["Table Cell Search for Question Answering"](https://dl.acm.org/citation.cfm?id=2883080), Sun, Huan and Ma, Hao and He, Xiaodong and Yih, Wen-tau and Su, Yu and Yan, Xifeng, WWW, 2016.
+- 2015
+  - ["WIKIQA: A Challenge Dataset for Open-Domain Question Answering"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/YangYihMeek_EMNLP-15_WikiQA.pdf), Yi Yang, Wen-tau Yih, and Christopher Meek, EMNLP, 2015.
+  - ["Web-based Question Answering: Revisiting AskMSR"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/AskMSRPlusTR_082815.pdf), Chen-Tse Tsai, Wen-tau Yih, and Christopher J.C. Burges, MSR-TR, 2015.
+  - ["Open Domain Question Answering via Semantic Enrichment"](https://dl.acm.org/citation.cfm?id=2741651), Huan Sun, Hao Ma, Wen-tau Yih, Chen-Tse Tsai, Jingjing Liu, and Ming-Wei Chang, WWW, 2015.
 - 2014
-  - ["Knowledge-Based Question Answering"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/sci2002.pdf), Ulf Hermjakob, Eduard H. Hovy, and Chin-Yew Lin, SCI, 2002
-
-#### Google AI's publication within 5 years
+  - ["An Overview of Microsoft Deep QA System on Stanford WebQuestions Benchmark"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Microsoft20Deep20QA.pdf), Zhenghao Wang, Shengquan Yan, Huaming Wang, and Xuedong Huang, MSR-TR, 2014.
+  - ["Semantic Parsing for Single-Relation Question Answering"], Wen-tau Yih, Xiaodong He, Christopher Meek, ACL, 2014.
+  
+### Google AI's publication within 5 years
 - 2018
   - ["Ask the Right Questions: Active Question Reformulation with Reinforcement Learning"](https://openreview.net/pdf?id=S1CChZ-CZ), Christian Buck and Jannis Bulian and Massimiliano Ciaramita and Wojciech Paweł Gajewski and Andrea Gesmundo and Neil Houlsby and Wei Wang, ICLR, 2018.
   - ["Did the model understand the question?"](https://arxiv.org/pdf/1805.05492.pdf), Pramod K. Mudrakarta and Ankur Taly and Mukund Sundararajan and Kedar Dhamdhere, ACL, 2018.
@@ -94,7 +109,13 @@ https://allenai.org/data/data-all.html
   - "Great Question! Question Quality in Community Q&A", Sujith Ravi and Bo Pang and Vibhor Rastogi and Ravi Kumar, ICWSM, 2014.
 ---
 
-#### awesome
+## Books
+
+## Links
+- [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
+- [Qeustion Answering with Tensorflow By Steven Hewitt, O'REILLY, 2017](https://www.oreilly.com/ideas/question-answering-with-tensorflow)
+
+### awesome
 [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome) <br/>
 [Contribution Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) <br/>
 [creating your own list](https://github.com/sindresorhus/awesome/blob/master/create-list.md) <br/>
