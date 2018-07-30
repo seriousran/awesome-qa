@@ -35,7 +35,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - IBM Watson system defeated top *[Jeopardy!](https://www.jeopardy.com)* champions in 2011.
 - Apple's Siri integrated Wolfram Alpha's answer engine in 2011.
 - Google embraced QA by launching its Knowledge Graph, leveraging the free base knowledge base in 2012.
-- Amazon Echo|Alexa (2015), Google Home|Google Assistant (2016), INVOKE|MS Cortana (2017), HomePod (2017)
+- Amazon Echo | Alexa (2015), Google Home | Google Assistant (2016), INVOKE | MS Cortana (2017), HomePod (2017)
 
 ## QA Systems
 - [IBM Watson](https://www.ibm.com/watson/)
@@ -103,7 +103,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   - ["Introduction to “This is Watson"](https://ieeexplore.ieee.org/document/6177724/), IBM Journal of Research and Development, D. A. Ferrucci, 2012.
   - ["A survey on question answering technology from an information retrieval perspective"](https://www.sciencedirect.com/science/article/pii/S0020025511003860), Information Sciences, 2011.
   - ["Question Answering in Restricted Domains: An Overview"](https://www.mitpressjournals.org/doi/abs/10.1162/coli.2007.33.1.41), Diego Mollá and José Luis Vicedo, Computational Linguistics, 2007
-  - ["Natural language question answering: the view from here"], L Hirschman, R Gaizauskas, natural language engineering, 2001.
+  - ["Natural language question answering: the view from here"](), L Hirschman, R Gaizauskas, natural language engineering, 2001.
 
 ### The DeepQA Research Team in IBM Watson's publication within 5 years
 - 2015
@@ -137,7 +137,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   - ["Open Domain Question Answering via Semantic Enrichment"](https://dl.acm.org/citation.cfm?id=2741651), Huan Sun, Hao Ma, Wen-tau Yih, Chen-Tse Tsai, Jingjing Liu, and Ming-Wei Chang, WWW, 2015.
 - 2014
   - ["An Overview of Microsoft Deep QA System on Stanford WebQuestions Benchmark"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Microsoft20Deep20QA.pdf), Zhenghao Wang, Shengquan Yan, Huaming Wang, and Xuedong Huang, MSR-TR, 2014.
-  - ["Semantic Parsing for Single-Relation Question Answering"], Wen-tau Yih, Xiaodong He, Christopher Meek, ACL, 2014.
+  - ["Semantic Parsing for Single-Relation Question Answering"](), Wen-tau Yih, Xiaodong He, Christopher Meek, ACL, 2014.
   
 ### Google AI's publication within 5 years
 - 2018
