@@ -64,40 +64,39 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - [MS MARCO](http://www.msmarco.org/dataset.aspx) <br/>
   - for real-world question answering
   - paper : https://arxiv.org/abs/1611.09268
-- [MultiRC](http://cogcomp.org/multirc/)
-  - paper : http://cogcomp.org/page/publication_view/833
 - [NarrativeQA](https://github.com/deepmind/narrativeqa) <br/>
+  - by: DeepMind
   - paper: https://arxiv.org/pdf/1712.07040v1.pdf
 - [NewsQA](https://github.com/Maluuba/newsqa) <br/>
   - A machine comprehension dataset
   - paper: https://arxiv.org/pdf/1611.09830.pdf
 - [Qestion-Answer Dataset by CMU](http://www.cs.cmu.edu/~ark/QA-data/)
-- [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) <br/>
+- [SQuAD1.0]() <br/>
+  - paper: https://arxiv.org/abs/1606.05250
+- [SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/) <br/>
   - for automated question answering. 100,000+ questions for machine comprehension of text
+  - paper: https://arxiv.org/abs/1806.03822
 -[Story cloze test](http://cs.rochester.edu/nlp/rocstories/)
   - paper: https://arxiv.org/abs/1604.01696
 - [TriviaQA](http://nlp.cs.washington.edu/triviaqa/) <br/>
   - for complex compositional answersand multi-sentence reasoning
+  - paper: https://arxiv.org/abs/1705.03551
 - [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-US%2Fdownloads%2F4495da01-db8c-4041-a7f6-7984a4f6a905%2Fdefault.aspx)
   - A challenge dataset for open-domain qustion answering
 
 ## Running Competitions in QA
 
-|   | Dataset     |                     | Top Rank               | Model                  | over Human Performance |
-|---|-------------|---------------------|------------------------|------------------------|------------------------|
-| 0 | MS MARCO V2 | Microsoft           | Baidu NLP              | VNET                   | partialy               |
-| 1 | TriviaQA    | Univ. of Washington | mingyan                | ?                      | ?                      |
-| 2 | SQuAD 2.0   | Univ. of Stanford   | Kangwon National Univ. | VS^3-NET(single model) | x                      |
-| 3 | NarrativeQA | Google DeepMind     |                        |                        |                        |
+|   | Dataset     |                     | Since | Top Rank               | Model                  | over Human Performance |
+|---|-------------|---------------------|-------|------------------------|------------------------|------------------------|
+| 0 | MS MARCO V2 | Microsoft           | 2016~ | Baidu NLP              | VNET                   | partialy               |
+| 1 | TriviaQA    | Univ. of Washington | 2017~ | mingyan                | ?                      | ?                      |
+| 2 | SQuAD 2.0   | Univ. of Stanford   | 2018~ | Kangwon National Univ. | VS^3-NET(single model) | x                      |
 
 ## Concluded Competitions in QA
 
 |   | Dataset     |                     | Top Rank               | Model                  | over Human Performance |
 |---|-------------|---------------------|------------------------|------------------------|------------------------|
-| 0 | CNN/Daily Mail| Google DeepMind   | Dhingra et al.         | [GA Reader](Gated-Attention Readers for Text Comprehension
-)              |                        |
-| 1 | MultiRC     |      | [MINIMAL(Dyn)](https://arxiv.org/abs/1805.08092)|                        |                        |
-| 2 | [Story Cloze Test](http://cs.rochester.edu/nlp/rocstories/) | LSDSem'17 | Radford et al | [Finetuned Transformer LM](Improving Language Understanding by Generative Pre-Training) |                        |
+| 2016 | [Story Cloze Test](http://cs.rochester.edu/nlp/rocstories/) | LSDSem'17 | Radford et al | [Finetuned Transformer LM](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) |                        |
 
 ## Publications
 - Papers
