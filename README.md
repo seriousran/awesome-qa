@@ -47,25 +47,57 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 ## Tutorial
 - [Question Answering with Knowledge Bases, Web and Beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf) | by Scott Wen-tau Yih & Hao Ma | Microsoft Research | 2016
 
-## Competitions in QA
+## Dataset Collections
+- [NLIWOD's Question answering datasets](https://github.com/dice-group/NLIWOD/tree/master/qa.datasets)
+- [karthinkncode's Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets)
+- [sebastianruder's NLP-progess/Question answering](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md)
+
+## Datasets
+- [AI2 Science Questions v2.1 (October 2017)](http://data.allenai.org/ai2-science-questions/)
+  - peper : http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
+- [Children's Book Test](https://uclmr.github.io/ai4exams/data.html)
+- [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data)
+  - paper: https://arxiv.org/abs/1506.03340
+- [GraphQuestions](https://github.com/ysu1989/GraphQuestions) <br/>
+  - On generating Characteristic-rich Question sets for QA evaluation  
+- [LC-QuAD](http://sda.cs.uni-bonn.de/projects/qa-dataset/)
 - [MS MARCO](http://www.msmarco.org/dataset.aspx) <br/>
   - for real-world question answering
-- [TriviaQA]() <br/>
-  - for complex compositional answersand multi-sentence reasoning
-- [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) <br/>
-  - for automated question answering
+  - paper : https://arxiv.org/abs/1611.09268
+- [MultiRC](http://cogcomp.org/multirc/)
+  - paper : http://cogcomp.org/page/publication_view/833
 - [NarrativeQA](https://github.com/deepmind/narrativeqa) <br/>
   - paper: https://arxiv.org/pdf/1712.07040v1.pdf
-- [CNN/Daily Mail](https://github.com/abisee/cnn-dailymail)
-- [Children's Book Test](https://uclmr.github.io/ai4exams/data.html)
-- [AI2 Science Questions v2.1 (October 2017)](http://data.allenai.org/ai2-science-questions/)
+- [NewsQA](https://github.com/Maluuba/newsqa) <br/>
+  - A machine comprehension dataset
+  - paper: https://arxiv.org/pdf/1611.09830.pdf
+- [Qestion-Answer Dataset by CMU](http://www.cs.cmu.edu/~ark/QA-data/)
+- [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) <br/>
+  - for automated question answering. 100,000+ questions for machine comprehension of text
+-[Story cloze test](http://cs.rochester.edu/nlp/rocstories/)
+  - paper: https://arxiv.org/abs/1604.01696
+- [TriviaQA](http://nlp.cs.washington.edu/triviaqa/) <br/>
+  - for complex compositional answersand multi-sentence reasoning
+- [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-US%2Fdownloads%2F4495da01-db8c-4041-a7f6-7984a4f6a905%2Fdefault.aspx)
+  - A challenge dataset for open-domain qustion answering
+
+## Running Competitions in QA
 
 |   | Dataset     |                     | Top Rank               | Model                  | over Human Performance |
 |---|-------------|---------------------|------------------------|------------------------|------------------------|
-| 0 | MS MARCO V2 | by Microsoft        | Baidu NLP              | VNET                   | partialy               |
+| 0 | MS MARCO V2 | Microsoft           | Baidu NLP              | VNET                   | partialy               |
 | 1 | TriviaQA    | Univ. of Washington | mingyan                | ?                      | ?                      |
 | 2 | SQuAD 2.0   | Univ. of Stanford   | Kangwon National Univ. | VS^3-NET(single model) | x                      |
 | 3 | NarrativeQA | Google DeepMind     |                        |                        |                        |
+
+## Concluded Competitions in QA
+
+|   | Dataset     |                     | Top Rank               | Model                  | over Human Performance |
+|---|-------------|---------------------|------------------------|------------------------|------------------------|
+| 0 | CNN/Daily Mail| Google DeepMind   | Dhingra et al.         | [GA Reader](Gated-Attention Readers for Text Comprehension
+)              |                        |
+| 1 | MultiRC     |      | [MINIMAL(Dyn)](https://arxiv.org/abs/1805.08092)|                        |                        |
+| 2 | [Story Cloze Test](http://cs.rochester.edu/nlp/rocstories/) | LSDSem'17 | Radford et al | [Finetuned Transformer LM](Improving Language Understanding by Generative Pre-Training) |                        |
 
 ## Publications
 - Papers
