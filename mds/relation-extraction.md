@@ -35,11 +35,8 @@
     
 - ["Relation extraction and scoring in DeepQA"](http://brenocon.com/watson_special_issue/09%20relation%20extraction%20and%20scoring.pdf), C. Wang, A. Kalyanpur, J. Fan, B. K. Boguraev, and D. C. Gondek, IBM Journal, 2012. (Citations: 58)
   - Rule-based relation extraction
-  - Statistical approaches for relation extraction and passage scoring
-
+  - Statistical approaches for relation extraction and passage scoring'
 - ["Automatic knowledge extraction from documents"](http://brenocon.com/watson_special_issue/05%20automatic%20knowledge%20extration.pdf), J. Fan, A. Kalyanpur, D. C. Gondek, and D. A. Ferrucci, IBM Journal, 2012. (Citations: 123)
-  - 
-  
 - ["BPRISMATIC: inducing knowledge from a large scale lexicalized relation resource"](https://dl.acm.org/citation.cfm?id=1866790), J Fan, D Ferrucci, D Gondek, A Kalyanpur, NAACL HLT, 2010. (Citations: 35)
   - This paper presents PRISMATIC, a large scale lexicalized relation resource that is automatically created over 30 gb of text.
   - The authors' focus has been on building the infrastructure and gathering the data.
