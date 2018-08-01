@@ -41,3 +41,4 @@
   - This paper presents PRISMATIC, a large scale lexicalized relation resource that is automatically created over 30 gb of text.
   - The authors' focus has been on building the infrastructure and gathering the data.
   ![](images/img-002.png)
+  
