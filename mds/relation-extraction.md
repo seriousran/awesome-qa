@@ -7,7 +7,7 @@
   However, a syntactically-informed representational structure faces the problem of Hnguistic variations, the phenomenon in which similar semantic content may be expressed in different surface forms.  
   - REXTOR(Relations EXtracTOR) provides two separate grammars: one for extracting arbitrary entities from documents, and the other for building relations from the extracted items. 
   
-  ![](images/img-001.png)
+  ![](/images/img-001.png)
   
   - relation and extraction rules
     ```
@@ -42,8 +42,10 @@
     1. Corpus processingVDocuments are annotated by a suite of components that perform dependency parsing, co-reference resolution, NER, and relation detection.
     2. Frame extractionVFrames are extracted on the basis of the dependency parses and associated annotations. This phase implements the first stage of our approach.
     3. Frame projectionVFrame projections of interest (e.g., S-V-O projections) are identified over all frames, and frequency information for each projection is tabulated. This phase produces the aggregate statistics from the extracted frames used to infer additional semantics.
-- ["RISMATIC: inducing knowledge from a large scale lexicalized relation resource"](https://dl.acm.org/citation.cfm?id=1866790), J Fan, D Ferrucci, D Gondek, A Kalyanpur, NAACL HLT, 2010. (Citations: 35)
+- ["PRISMATIC: inducing knowledge from a large scale lexicalized relation resource"](https://dl.acm.org/citation.cfm?id=1866790), J Fan, D Ferrucci, D Gondek, A Kalyanpur, NAACL HLT, 2010. (Citations: 35)
   - This paper presents PRISMATIC, a large scale lexicalized relation resource that is automatically created over 30 gb of text.
   - The authors' focus has been on building the infrastructure and gathering the data.
-  ![](images/img-002.png)
   
+  ![](/images/img-002.png)
+  
+- and?
