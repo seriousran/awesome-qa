@@ -21,8 +21,8 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 
 # Contents
 - [Events](#events)
-- [QA Systems](#contents)
-- [Lectures](#contents)
+- [Systems](#systems)
+- [Lectures](#lectures)
 - [Tutorial](#tutorial)
 - [Dataset Collections](#dataset-collections)
 - [Datasets](#datasets)
@@ -41,7 +41,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - Google embraced QA by launching its Knowledge Graph, leveraging the free base knowledge base in 2012.
 - Amazon Echo | Alexa (2015), Google Home | Google Assistant (2016), INVOKE | MS Cortana (2017), HomePod (2017)
 
-## QA Systems
+## Systems
 - [IBM Watson](https://www.ibm.com/watson/): has state-of-the-arts performance. 
 - [Facebook DrQA](https://research.fb.com/downloads/drqa/): Applied to the SQuAD1.0 dataset. The SQuAD2.0 dataset has released. but DrQA is not tested yet.
 
