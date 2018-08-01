@@ -179,3 +179,4 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 ## Links
 - [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 - [Qeustion Answering with Tensorflow By Steven Hewitt, O'REILLY, 2017](https://www.oreilly.com/ideas/question-answering-with-tensorflow)
+- [Why question answering is hard](http://nicklothian.com/blog/2014/09/25/why-question-answering-is-hard/)
