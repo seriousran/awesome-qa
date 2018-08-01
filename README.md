@@ -11,6 +11,7 @@
 
 A curated list of the __Question Answering (QA)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP)
 
+### types of QA
 - Single-turn QA: answer without considering any context
   - Knowledge-based QA
   - Table/List-based QA
@@ -18,6 +19,13 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   - Community-based QA
   - Visual QA
 - Conversational QA: use previsous conversation turns
+
+### most QA systems have roughly 3 parts:
+1. Fact extraction <br/>
+  a. Entity Extraction <br/>
+  b. [Relation Extraction](mds/relation-extraction.md) <br/>
+2. Understanding the question
+3. Generating an answer
 
 # Contents
 - [Events](#events)
