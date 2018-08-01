@@ -81,7 +81,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   - paper: https://arxiv.org/abs/1606.05250
 - [SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/) <br/>
   - SQuAD2.0 combines the 100,000 questions in SQuAD1.1 with over 50,000 new, unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. To do well on SQuAD2.0, systems must not only answer questions when possible, but also determine when no answer is supported by the paragraph and abstain from answering.
-  - paper: https://arxiv.org/abs/1806.03822
+  - paper: https://arxiv.org/abs/1806.03822 <br/>
 -[Story cloze test](http://cs.rochester.edu/nlp/rocstories/)
   - 'Story Cloze Test' is a new commonsense reasoning framework for evaluating story understanding, story generation, and script learning. This test requires a system to choose the correct ending to a four-sentence story.
   - paper: https://arxiv.org/abs/1604.01696
