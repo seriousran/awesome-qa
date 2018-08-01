@@ -56,8 +56,9 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 ## Lectures
 - [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo) | by Dragomir Radev, Ph.D. | University of Michigan | 2016
 
-## Tutorial
+## Slides
 - [Question Answering with Knowledge Bases, Web and Beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf) | by Scott Wen-tau Yih & Hao Ma | Microsoft Research | 2016
+- [Question Answering](https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/NaturalLanguageProcessing/NLP2017/NLP8_QuestionAnswering.pdf) | by Dr. Mariana Neves | Hasso Plattner Institut | 2017
 
 ## Dataset Collections
 - [NLIWOD's Question answering datasets](https://github.com/dice-group/NLIWOD/tree/master/qa.datasets)
