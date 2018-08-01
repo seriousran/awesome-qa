@@ -24,9 +24,13 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - [QA Systems](#contents)
 - [Lectures](#contents)
 - [Tutorial](#tutorial)
+- [Dataset Collections](#dataset-collections)
 - [Datasets](#datasets)
 - [Competitions in QA](#competitions-in-qa)
 - [Publications](#publications)
+  - [The DeepQA Research Team in IBM Watson's publication within 5 years](#the-deepqa-research-team-in-ibm-watson's-publication-within-5-years)
+  - [MS Research's publication within 5 years](#ms-research's-publication-within-5-years)
+  - [Google AI's publication within 5 years](#google-ai's-publication-within-5-years)
 - [Books](#books)
 - [Links](#links)
 
