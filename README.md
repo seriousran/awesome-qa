@@ -22,9 +22,9 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 
 ### most QA systems have roughly 3 parts:
 1. Fact extraction <br/>
-  a. Entity Extraction <br/>
-    - [Named-Entity Recognition(NER)](mds/named-entity-recognition.md)<br/>
-  b. [Relation Extraction](mds/relation-extraction.md) <br/>
+    1. Entity Extraction <br/>
+        1. [Named-Entity Recognition(NER)](mds/named-entity-recognition.md)
+    2. [Relation Extraction](mds/relation-extraction.md) <br/>
 2. Understanding the question
 3. Generating an answer
 
