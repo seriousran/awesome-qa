@@ -66,10 +66,10 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   - Google; unofficial; tensorflow v1.5
   - [paper](#qanet)
 - [R-Net](https://github.com/HKUST-KnowComp/R-Net)
-  - tensorflow; unofficially by HKUST; tensorflow v1.5
+  - MS; unofficially by HKUST; tensorflow v1.5
   - [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
 - [R-Net-in-Keras](https://github.com/YerevaNN/R-NET-in-Keras)
-  - keras; unofficial; keras v.2.0.6
+  - MS; unofficial; keras v2.0.6
   - [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
 - [DrQA](https://github.com/hitvoice/DrQA)
   - Facebook; official; pytorch v0.4
