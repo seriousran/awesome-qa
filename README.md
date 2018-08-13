@@ -14,6 +14,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 # Contents
 - [Events](#events)
 - [Systems](#systems)
+- [Codes](#codes)
 - [Lectures](#lectures)
 - [Tutorial](#tutorial)
 - [Dataset Collections](#dataset-collections)
@@ -56,7 +57,23 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - [IBM Watson](https://www.ibm.com/watson/): has state-of-the-arts performance. 
 - [Facebook DrQA](https://research.fb.com/downloads/drqa/): Applied to the SQuAD1.0 dataset. The SQuAD2.0 dataset has released. but DrQA is not tested yet.
 - [MIT media lab's Knowledge graph](http://conceptnet.io/): is a freely-available semantic network, designed to help computers understand the meanings of words that people use.
-- 
+
+## Codes
+- [BiDAF](https://github.com/allenai/bi-att-flow)
+  - official; tensorflow v1.2
+  - [paper](https://arxiv.org/pdf/1611.01603.pdf)
+- [QANet](https://github.com/NLPLearn/QANet)
+  - Google; unofficial; tensorflow v1.5
+  - [paper](#qanet)
+- [R-Net](https://github.com/HKUST-KnowComp/R-Net)
+  - tensorflow; unofficially by HKUST; tensorflow v1.5
+  - [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
+- [R-Net-in-Keras](https://github.com/YerevaNN/R-NET-in-Keras)
+  - keras; unofficial; keras v.2.0.6
+  - [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
+- [DrQA](https://github.com/hitvoice/DrQA)
+  - Facebook; official; pytorch v0.4
+  - [paper](#drqa)
 
 ## Lectures
 - [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo) | by Dragomir Radev, Ph.D. | University of Michigan | 2016
@@ -128,6 +145,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   - ["Learning to Skim Text"](https://arxiv.org/pdf/1704.06877.pdf), Adams Wei Yu, Hongrae Lee, Quoc V. Le, 2017.
     : Show only what you want in Text
   - ["Deep Joint Entity Disambiguation with Local Neural Attention"](https://arxiv.org/pdf/1704.04920.pdf), Octavian-Eugen Ganea and Thomas Hofmann, 2017.
+  - ["BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION"](https://arxiv.org/pdf/1611.01603.pdf), Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, Hananneh Hajishirzi, ICLR, 2017.
   - ["Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks"](http://nlp.cs.berkeley.edu/pubs/FrancisLandau-Durrett-Klein_2016_EntityConvnets_paper.pdf), Matthew Francis-Landau, Greg Durrett and Dan Klei, NAACL-HLT 2016.
     - https://github.com/matthewfl/nlp-entity-convnet
   - ["Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions"](https://ieeexplore.ieee.org/document/6823700/), Wei Shen, Jianyong Wang, Jiawei Han, IEEE Transactions on Knowledge and Data Engineering(TKDE), 2014.
@@ -173,7 +191,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   
 ### Google AI's publication within 5 years
 - 2018
-  - Google QA
+  - Google QA <a name="qanet"></a>
     - ["QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension"](https://openreview.net/pdf?id=B14TlG-RW), Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, Quoc V. Le, ICLR, 2018.
     - ["Ask the Right Questions: Active Question Reformulation with Reinforcement Learning"](https://openreview.net/pdf?id=S1CChZ-CZ), Christian Buck and Jannis Bulian and Massimiliano Ciaramita and Wojciech Paweł Gajewski and Andrea Gesmundo and Neil Houlsby and Wei Wang, ICLR, 2018.
     - ["Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors"](https://arxiv.org/pdf/1612.04342.pdf), Radu Soricut, Nan Ding, 2018.
@@ -187,6 +205,11 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
     - ["Neural Paraphrase Identification of Questions with Noisy Pretraining"](https://arxiv.org/pdf/1704.04565.pdf), Gaurav Singh Tomar and Thyago Duque and Oscar Täckström and Jakob Uszkoreit and Dipanjan Das, SCLeM, 2017.
 - 2014
   - "Great Question! Question Quality in Community Q&A", Sujith Ravi and Bo Pang and Vibhor Rastogi and Ravi Kumar, ICWSM, 2014.
+
+### Facebook AI Research's publication within 5 years
+- 2017
+  - DrQA <a name="drqa"></a>
+    - [Reading Wikipedia to Answer Open-Domain Questions](https://cs.stanford.edu/people/danqi/papers/acl2017.pdf), Danqi Chen, Adam Fisch, Jason Weston & Antoine Bordes, ACL, 2017.
 
 ## Books
 - Natural Language Question Answering system Paperback - Boris Galitsky (2003)
