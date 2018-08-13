@@ -11,6 +11,22 @@
 
 A curated list of the __Question Answering (QA)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP)
 
+# Contents
+- [Events](#events)
+- [Systems](#systems)
+- [Lectures](#lectures)
+- [Tutorial](#tutorial)
+- [Dataset Collections](#dataset-collections)
+- [Datasets](#datasets)
+- [Competitions in QA](#competitions-in-qa)
+- [Publications](#publications)
+  - [The DeepQA Research Team in IBM Watson's publication within 5 years](#the-deepqa-research-team-in-ibm-watsons-publication-within-5-years)
+  - [MS Research's publication within 5 years](#ms-researchs-publication-within-5-years)
+  - [Google AI's publication within 5 years](#google-ais-publication-within-5-years)
+- [Books](#books)
+- [Links](#links)
+
+## About QA
 ### types of QA
 - Single-turn QA: answer without considering any context
 - Conversational QA: use previsous conversation turns
@@ -28,21 +44,6 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
     2. [Relation Extraction](mds/relation-extraction.md) <br/>
 2. Understanding the question
 3. Generating an answer
-
-# Contents
-- [Events](#events)
-- [Systems](#systems)
-- [Lectures](#lectures)
-- [Tutorial](#tutorial)
-- [Dataset Collections](#dataset-collections)
-- [Datasets](#datasets)
-- [Competitions in QA](#competitions-in-qa)
-- [Publications](#publications)
-  - [The DeepQA Research Team in IBM Watson's publication within 5 years](#the-deepqa-research-team-in-ibm-watsons-publication-within-5-years)
-  - [MS Research's publication within 5 years](#ms-researchs-publication-within-5-years)
-  - [Google AI's publication within 5 years](#google-ais-publication-within-5-years)
-- [Books](#books)
-- [Links](#links)
 
 ## Events
 - Wolfram Alpha launced the answer engine in 2009.
