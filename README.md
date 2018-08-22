@@ -4,9 +4,6 @@
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge-flat.svg">
   </a>
-  <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">
-  <img src="https://www.researchgate.net/profile/Donat_Agosti/publication/51971424/figure/fig2/AS:203212943564807@1425461149299/Logo-of-the-CC-Zero-or-CC0-Public-Domain-Dedication-License-No-Rights-Reserved-CC.png" height="20">
-  </a>
 </p>
 
 A curated list of the __Question Answering (QA)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP)
@@ -221,3 +218,13 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 - [Qeustion Answering with Tensorflow By Steven Hewitt, O'REILLY, 2017](https://www.oreilly.com/ideas/question-answering-with-tensorflow)
 - [Why question answering is hard](http://nicklothian.com/blog/2014/09/25/why-question-answering-is-hard/)
+
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/share-your-work/public-domain/cc0/)
+
+To the extent possible under law, [seriousmac](https://github.com/seriousmac) (the maintainer) has waived all copyright and related or neighboring rights to this work.
