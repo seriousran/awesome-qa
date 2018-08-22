@@ -9,6 +9,7 @@
 A curated list of the __Question Answering (QA)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP)
 
 # Contents
+- [About QA](#about-qa)
 - [Events](#events)
 - [Systems](#systems)
 - [Codes](#codes)
