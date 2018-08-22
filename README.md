@@ -1,10 +1,4 @@
-# awesome-qa
-
-<p float="left">
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge-flat.svg">
-  </a>
-</p>
+# awesome-qa [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 A curated list of the __Question Answering (QA)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP)
 
