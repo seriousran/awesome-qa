@@ -18,6 +18,8 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   - [Google AI's publication within 5 years](#google-ais-publication-within-5-years)
 - [Books](#books)
 - [Links](#links)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## About QA
 ### types of QA
