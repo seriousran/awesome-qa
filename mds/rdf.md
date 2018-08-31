@@ -1,10 +1,14 @@
 ## What is RDF
 : Framework for representing information(espeically metadata about web resource) in the Web
-- Resouce
-- Description
-- Framework
+  - Resouce
+  - Description
+  - Framework
 : for Machine processible, readable, understandable Linked Data from web as database
 : has a [Graph Model](#graph-model)
+- RDF Schema
+  - RDF Schema gives additional information(Domain, Range) about preoperty.
+  - Describe the type(or Class) of Resource. ex)Book, Person, Publisher
+- RDF Syntac
 
 ### Events
 - mid 1990s: MCF(Meta Content Framework) - Ramanathan V. Guha & Tim Bray
@@ -43,4 +47,7 @@
       - Object: 44 (Literal)
     - Predicate: http://www.example.com/terms/released (URI)
     - Object: 1983-01-02 (Literal)
-  
+    
+### Graph Expression in Language
+- Turtle: a text based format, easy to scribble, easy to read
+- RDF/XML: an XML based format, hard to read/write
