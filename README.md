@@ -31,6 +31,8 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - Text-based QA
 - Community-based QA
 - Visual QA
+#### Incidental Subjects
+- [Incomplete Sentence](mds/incomplete-sentence.md))
 
 ### most QA systems have roughly 3 parts:
 1. Fact extraction <br/>
