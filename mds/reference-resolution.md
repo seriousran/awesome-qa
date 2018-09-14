@@ -32,3 +32,6 @@
 - [용어 클러스터링을 이용한 단일문서 키워드 추출에 관한 연구], 한승희
 - [한글 문서의 단어 동시 출현 정보에 개선된 TextRank를 적용한 키워드 자동 추출 기법](), 송광호, 민지홍
 - [Automatic Keyphrase Extraction: A Survey of the State of the Art](http://www.aclweb.org/anthology/P14-1119), Kazi Saidul Hasan and Vincent Ng
+
+### Entity Linking
+- Entity linking is the task to link entity mentions in text with their corresponding entities in a knowledge base
