@@ -128,7 +128,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 |---|-------------|---------------------|-------|------------------------|------------------------|------------------------|
 | 0 | MS MARCO V2 | Microsoft           | 2016~ | Baidu NLP              | VNET                   | partialy               |
 | 1 | TriviaQA    | Univ. of Washington | 2017~ | mingyan                | ?                      | ?                      |
-| 2 | SQuAD 2.0   | Univ. of Stanford   | 2018~ | Kangwon National Univ. | VS^3-NET(single model) | x                      |
+| 2 | SQuAD 2.0   | Univ. of Stanford   | 2018~ | Microsoft Research Asia| nlnet (single model)   | x                      |
 
 ## Concluded Competitions in QA
 
