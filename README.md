@@ -34,6 +34,14 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 #### Incidental Subjects
 - [Incomplete Sentence](mds/incomplete-sentence.md))
 
+### Anlaysis and Parsing for Pre-processing in QA systems
+Lanugage Analysis
+  1. [Morphological analysis](https://www.cs.bham.ac.uk/~pjh/sem1a5/pt2/pt2_intro_morphology.html)
+  2. [Named Entity Recognition(NER)](mds/named-entity-recognition.md)
+  3. Homonyms / Polysemy Analysis
+  4. Syntactic Parsing (Dependency Parsing)
+  5. Semantic Recognition
+
 ### most QA systems have roughly 3 parts:
 1. Fact extraction <br/>
     1. Entity Extraction <br/>
