@@ -154,7 +154,7 @@ Lanugage Analysis
 
 |      | Dataset                                                     |           | Top Rank      | Model                                                                                                                                                          | over Human Performance  |
 |------|-------------------------------------------------------------|-----------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 2016 | [Story Cloze Test](http://cs.rochester.edu/nlp/rocstories/) | LSDSem'17 | Radford et al |[Finetuned Transformer LM](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)             |                         |
+| 2016 | [Story Cloze Test](http://cs.rochester.edu/nlp/rocstories/) | LSDSem'17 | Radford et al | [Finetuned Transformer LM](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)            |                         |
 
 ## Publications
 - Papers
