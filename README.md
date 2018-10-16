@@ -136,7 +136,6 @@ Lanugage Analysis
   - paper: https://arxiv.org/abs/1604.01696
 - [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)
   - TriviaQA is a reading comprehension dataset containing over 650K question-answer-evidence triples. TriviaQA includes 95K question-answer pairs authored by trivia enthusiasts and independently gathered evidence documents, six per question on average, that provide high quality distant supervision for answering the questions. 
-  - paper: https://arxiv.org/abs/1705.03551
 - [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-US%2Fdownloads%2F4495da01-db8c-4041-a7f6-7984a4f6a905%2Fdefault.aspx)
   - A publicly available set of question and sentence pairs for open-domain question answering.
 
@@ -154,7 +153,7 @@ Lanugage Analysis
 
 |      | Dataset                                                     |           | Top Rank      | Model                                                                                                                                                           | over Human Performance |
 |------|-------------------------------------------------------------|-----------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 2016 | [Story Cloze Test](http://cs.rochester.edu/nlp/rocstories/) | LSDSem'17 | Radford et al | [Finetuned Transformer LM](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) |                         |
+| 2016 | [Story Cloze Test](http://cs.rochester.edu/nlp/rocstories/) | LSDSem'17 | Radford et al | [Finetuned Transformer LM](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)            |                          |
 
 ## Publications
 - Papers
