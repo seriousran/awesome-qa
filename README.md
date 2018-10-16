@@ -10,7 +10,7 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - [About QA](#about-qa)
   - [types of QA](#types-of-qa)
   - [Anlaysis and Parsing for Pre-processing in QA systems](#anlaysis-and-parsing-for-pre-processing-in-qa-systems)
-  - [most QA systems have roughly 3 parts:](#most-qa-systems-have-roughly-3-parts)
+  - [most QA systems have roughly 3 parts](#most-qa-systems-have-roughly-3-parts)
 - [Events](#events)
 - [Systems](#systems)
 - [Codes](#codes)
@@ -27,7 +27,6 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   - [Facebook AI Research's publication within 5 years](#facebook-ai-researchs-publication-within-5-years)
 - [Books](#books)
 - [Links](#links)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -41,8 +40,6 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
 - Text-based QA
 - Community-based QA
 - Visual QA
-#### Incidental Subjects
-- [Incomplete Sentence](mds/incomplete-sentence.md)
 
 ### Anlaysis and Parsing for Pre-processing in QA systems
 Lanugage Analysis
@@ -68,9 +65,9 @@ Lanugage Analysis
 - Amazon Echo | Alexa (2015), Google Home | Google Assistant (2016), INVOKE | MS Cortana (2017), HomePod (2017)
 
 ## Systems
-- [IBM Watson](https://www.ibm.com/watson/) - has state-of-the-arts performance. 
+- [IBM Watson](https://www.ibm.com/watson/) - Has state-of-the-arts performance. 
 - [Facebook DrQA](https://research.fb.com/downloads/drqa/) - Applied to the SQuAD1.0 dataset. The SQuAD2.0 dataset has released. but DrQA is not tested yet.
-- [MIT media lab's Knowledge graph](http://conceptnet.io/) - is a freely-available semantic network, designed to help computers understand the meanings of words that people use.
+- [MIT media lab's Knowledge graph](http://conceptnet.io/) - Is a freely-available semantic network, designed to help computers understand the meanings of words that people use.
 
 ## Codes
 - [BiDAF](https://github.com/allenai/bi-att-flow)
@@ -90,11 +87,11 @@ Lanugage Analysis
   - [paper](#drqa)
 
 ## Lectures
-- [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo) - by Dragomir Radev, Ph.D. | University of Michigan | 2016
+- [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo) - By Dragomir Radev, Ph.D. | University of Michigan | 2016.
 
 ## Slides
-- [Question Answering with Knowledge Bases, Web and Beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf) - by Scott Wen-tau Yih & Hao Ma | Microsoft Research | 2016
-- [Question Answering](https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/NaturalLanguageProcessing/NLP2017/NLP8_QuestionAnswering.pdf) - by Dr. Mariana Neves | Hasso Plattner Institut | 2017
+- [Question Answering with Knowledge Bases, Web and Beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf) - By Scott Wen-tau Yih & Hao Ma | Microsoft Research | 2016.
+- [Question Answering](https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/NaturalLanguageProcessing/NLP2017/NLP8_QuestionAnswering.pdf) - By Dr. Mariana Neves | Hasso Plattner Institut | 2017.
 
 ## Dataset Collections
 - [NLIWOD's Question answering datasets](https://github.com/dice-group/NLIWOD/tree/master/qa.datasets)
