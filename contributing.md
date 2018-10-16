@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Contribution Guidelines](#contribution-guidelines)
+  - [Adding entries to the list](#adding-entries-to-the-list)
+  - [Updating your Pull Request](#updating-your-pull-request)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Contribution Guidelines
 
 Please ensure your pull request adheres to the following guidelines:

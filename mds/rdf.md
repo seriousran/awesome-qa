@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [What is RDF](#what-is-rdf)
+  - [Events](#events)
+  - [Timeline of Sementic Web Language](#timeline-of-sementic-web-language)
+  - [Graph Model](#graph-model)
+  - [Graph Expression in Language](#graph-expression-in-language)
+  - [RDF dataset](#rdf-dataset)
+  - [Technical Specifications introduced by RDF PRIMER](#technical-specifications-introduced-by-rdf-primer)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## What is RDF
 : Framework for representing information(espeically metadata about web resource) in the Web
   - Resouce

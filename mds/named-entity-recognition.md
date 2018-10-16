@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [named-entity-recognition](#named-entity-recognition)
+    - [읽어볼만한 자료들](#%EC%9D%BD%EC%96%B4%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%9E%90%EB%A3%8C%EB%93%A4)
+    - [써볼만한 기능을 가진 사이트들](#%EC%8D%A8%EB%B3%BC%EB%A7%8C%ED%95%9C-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B0%80%EC%A7%84-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%93%A4)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # named-entity-recognition
 
 Named-entity recognition (NER) (also known as entity identification, entity chunking and entity extraction) is a subtask of information extraction that seeks to locate and classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc.
