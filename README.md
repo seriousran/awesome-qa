@@ -1,6 +1,10 @@
+# awesome-qa [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
+
+A curated list of the __Question Answering (QA)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [awesome-qa *](#awesome-qa-)
 - [Contents](#contents)
@@ -28,29 +32,6 @@
   - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# awesome-qa [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
-
-A curated list of the __Question Answering (QA)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP)
-
-# Contents
-- [About QA](#about-qa)
-- [Events](#events)
-- [Systems](#systems)
-- [Codes](#codes)
-- [Lectures](#lectures)
-- [Tutorial](#tutorial)
-- [Dataset Collections](#dataset-collections)
-- [Datasets](#datasets)
-- [Competitions in QA](#competitions-in-qa)
-- [Publications](#publications)
-  - [The DeepQA Research Team in IBM Watson's publication within 5 years](#the-deepqa-research-team-in-ibm-watsons-publication-within-5-years)
-  - [MS Research's publication within 5 years](#ms-researchs-publication-within-5-years)
-  - [Google AI's publication within 5 years](#google-ais-publication-within-5-years)
-- [Books](#books)
-- [Links](#links)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About QA
 ### types of QA
