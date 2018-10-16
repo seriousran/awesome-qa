@@ -107,34 +107,34 @@ Lanugage Analysis
 - [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data)
   - Hermann et al. (2015) created two awesome datasets using news articles for Q&A research. Each dataset contains many documents (90k and 197k each), and each document companies on average 4 questions approximately. Each question is a sentence with one missing word/phrase which can be found from the accompanying document/context.
   - paper: https://arxiv.org/abs/1506.03340
-- [GraphQuestions](https://github.com/ysu1989/GraphQuestions) <br/>
+- [GraphQuestions](https://github.com/ysu1989/GraphQuestions)
   - On generating Characteristic-rich Question sets for QA evaluation.
 - [LC-QuAD](http://sda.cs.uni-bonn.de/projects/qa-dataset/)
   - It is a gold standard KBQA (Question Answering over Knowledge Base) dataset containing 5000 Question and SPARQL queries. LC-QuAD uses DBpedia v04.16 as the target KB.
-- [MS MARCO](http://www.msmarco.org/dataset.aspx) <br/>
+- [MS MARCO](http://www.msmarco.org/dataset.aspx)
   - This is for real-world question answering.
   - paper : https://arxiv.org/abs/1611.09268
 - [MultiRC](https://cogcomp.org/multirc/)
   - A dataset of short paragraphs and multi-sentence questions
   - Paper: http://cogcomp.org/page/publication_view/833 
-- [NarrativeQA](https://github.com/deepmind/narrativeqa) <br/>
+- [NarrativeQA](https://github.com/deepmind/narrativeqa)
   - It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
   - paper: https://arxiv.org/pdf/1712.07040v1.pdf
-- [NewsQA](https://github.com/Maluuba/newsqa) <br/>
+- [NewsQA](https://github.com/Maluuba/newsqa)
   - A machine comprehension dataset
   - paper: https://arxiv.org/pdf/1611.09830.pdf
 - [Qestion-Answer Dataset by CMU](http://www.cs.cmu.edu/~ark/QA-data/)
   - This is a corpus of Wikipedia articles, manually-generated factoid questions from them, and manually-generated answers to these questions, for use in academic research. These data were collected by Noah Smith, Michael Heilman, Rebecca Hwa, Shay Cohen, Kevin Gimpel, and many students at Carnegie Mellon University and the University of Pittsburgh between 2008 and 2010.
-- [SQuAD1.0]() <br/>
+- [SQuAD1.0](https://rajpurkar.github.io/SQuAD-explorer/)
   - Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
   - paper: https://arxiv.org/abs/1606.05250
-- [SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/) <br/>
+- [SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/)
   - SQuAD2.0 combines the 100,000 questions in SQuAD1.1 with over 50,000 new, unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. To do well on SQuAD2.0, systems must not only answer questions when possible, but also determine when no answer is supported by the paragraph and abstain from answering.
-  - paper: https://arxiv.org/abs/1806.03822 <br/>
+  - paper: https://arxiv.org/abs/1806.03822
 - [Story cloze test](http://cs.rochester.edu/nlp/rocstories/)
   - 'Story Cloze Test' is a new commonsense reasoning framework for evaluating story understanding, story generation, and script learning. This test requires a system to choose the correct ending to a four-sentence story.
   - paper: https://arxiv.org/abs/1604.01696
-- [TriviaQA](http://nlp.cs.washington.edu/triviaqa/) <br/>
+- [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)
   - TriviaQA is a reading comprehension dataset containing over 650K question-answer-evidence triples. TriviaQA includes 95K question-answer pairs authored by trivia enthusiasts and independently gathered evidence documents, six per question on average, that provide high quality distant supervision for answering the questions. 
   - paper: https://arxiv.org/abs/1705.03551
 - [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-US%2Fdownloads%2F4495da01-db8c-4041-a7f6-7984a4f6a905%2Fdefault.aspx)
@@ -148,7 +148,7 @@ Lanugage Analysis
 |---|-------------|---------------------|-------|------------------------|------------------------|------------------------|
 | 0 | MS MARCO V2 | Microsoft           | 2016~ | Baidu NLP              | VNET                   | partialy               |
 | 1 | TriviaQA    | Univ. of Washington | 2017~ | mingyan                | ?                      | ?                      |
-| 2 | SQuAD 2.0   | Univ. of Stanford   | 2018~ | Microsoft Research Asia| nlnet (single model)   | x                      |
+| 2 | SQuAD 2.0   | Univ. of Stanford   | 2018~ | Microsoft Research Asia | nlnet (single model)  | x                      |
 
 ## Concluded Competitions in QA
 
