@@ -27,7 +27,6 @@ A curated list of the __Question Answering (QA)__ subject which is a computer sc
   - [Facebook AI Research's publication within 5 years](#facebook-ai-researchs-publication-within-5-years)
 - [Books](#books)
 - [Links](#links)
-- [Contributing](#contributing)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
