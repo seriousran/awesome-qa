@@ -148,13 +148,13 @@ Lanugage Analysis
 |---|-------------|---------------------|-------|------------------------|------------------------|------------------------|
 | 0 | MS MARCO V2 | Microsoft           | 2016~ | Baidu NLP              | VNET                   | partialy               |
 | 1 | TriviaQA    | Univ. of Washington | 2017~ | mingyan                | ?                      | ?                      |
-| 2 | SQuAD 2.0   | Univ. of Stanford   | 2018~ | Microsoft Research Asia | nlnet (single model)  | x                      |
+| 2 | SQuAD 2.0   | Univ. of Stanford   | 2018~ | MS Research Asia       | nlnet (single model)   | x                      |
 
 ## Concluded Competitions in QA
 
-|   | Dataset     |                     | Top Rank               | Model                  | over Human Performance |
-|---|-------------|---------------------|------------------------|------------------------|------------------------|
-| 2016 | [Story Cloze Test](http://cs.rochester.edu/nlp/rocstories/) | LSDSem'17 | Radford et al | [Finetuned Transformer LM](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) |                        |
+|      | Dataset                                                     |           | Top Rank      | Model                                                                                                                                                            | over Human Performance |
+|------|-------------------------------------------------------------|-----------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| 2016 | [Story Cloze Test](http://cs.rochester.edu/nlp/rocstories/) | LSDSem'17 | Radford et al | [Finetuned Transformer LM](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) |                         |
 
 ## Publications
 - Papers
