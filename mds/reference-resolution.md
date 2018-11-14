@@ -3,15 +3,15 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [EMNLP](#emnlp)
-  - [CoNLL](#conll)
-  - [Papers](#papers)
-  - [의미역 결정](#%EC%9D%98%EB%AF%B8%EC%97%AD-%EA%B2%B0%EC%A0%95)
-  - [키워드 추출](#%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B6%94%EC%B6%9C)
-  - [Entity Linking](#entity-linking)
+- [CoNLL](#conll)
+- [Papers](#papers)
+- [의미역 결정](#%EC%9D%98%EB%AF%B8%EC%97%AD-%EA%B2%B0%EC%A0%95)
+- [키워드 추출](#%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B6%94%EC%B6%9C)
+- [Entity Linking](#entity-linking)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## [EMNLP](http://emnlp2018.org/)
+### [EMNLP](http://emnlp2018.org/)
 - Conference on Empirical Methods in Natural Language Processing
 - CoNLL is one of the workshop in EMNLP
 
@@ -35,6 +35,7 @@
 - [Learning Entity Types from Query Logs via Graph-Based Modeling](http://www.luojie.me/publications/files/zhang_cikm15_lp.pdf), Jingyuan Zhang, Luo Jie, Altaf Rahman, Sihong Xie†, Yi Chang, and Philip S. Yu
 - [BLANC: Implementing the Rand index for coreference evaluation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.300.9229&rep=rep1&type=pdf), M. Recasens to E. Hovy
 - [Improving Machine Learning Approaches to Coreference Resolution](http://delivery.acm.org/10.1145/1080000/1073102/p104-ng.pdf?ip=221.148.36.67&id=1073102&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536890936_3e69413d210852920058a15769c798d6), Vincent Ng and Claire Cardie
+- [End-to-end Neural Coreference Resolution](https://www.semanticscholar.org/paper/End-to-end-Neural-Coreference-Resolution-Lee-He/8ae1af4a424f5e464d46903bc3d18fe1cf1434ff) - Kenton Lee, Luheng He, Mike Lewis, Luke S. Zettlemoyer, EMNLP, 2017
 
 ### 의미역 결정
 - [형태 의미 정보를 이용한 한국어 의미역 결정](), 박태호, 차정원
