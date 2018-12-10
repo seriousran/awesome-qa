@@ -148,7 +148,7 @@ Lanugage Analysis
 |---|-------------|---------------------|-------|------------------------|------------------------|------------------------|
 | 0 | MS MARCO V2 | Microsoft           | 2016~ | Baidu NLP              | VNET                   | partialy               |
 | 1 | TriviaQA    | Univ. of Washington | 2017~ | mingyan                | ?                      | ?                      |
-| 2 | SQuAD 2.0   | Univ. of Stanford   | 2018~ | MS Research Asia       | nlnet (single model)   | x                      |
+| 2 | SQuAD 2.0   | Univ. of Stanford   | 2018~ | PINGAN GammaLab        | PAML+BERT (ensemble)   | x                      |
 | 3 | decaNLP     | Salesforce Research | 2018~ | Salesforce Research    | MQAN                   | x                      |
 
 ## Concluded Competitions in QA
