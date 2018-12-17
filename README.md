@@ -85,7 +85,7 @@ Lanugage Analysis
 - [DrQA](https://github.com/hitvoice/DrQA)
   - Facebook; official; pytorch v0.4
   - [paper](#drqa)
-- [Bert](https://github.com/google-research/bert)
+- [BERT](https://github.com/google-research/bert)
   - Google; official implementation; tensorflow v1.11.0
   - [paper](https://arxiv.org/abs/1810.04805)
 
@@ -143,22 +143,17 @@ Lanugage Analysis
 - [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-US%2Fdownloads%2F4495da01-db8c-4041-a7f6-7984a4f6a905%2Fdefault.aspx)
   - A publicly available set of question and sentence pairs for open-domain question answering.
 
+## Competitions in QA
 
-
-## Running Competitions in QA
-
-|   | Dataset     |                     | Since | Top Rank               | Model                  | over Human Performance |
-|---|-------------|---------------------|-------|------------------------|------------------------|------------------------|
-| 0 | MS MARCO V2 | Microsoft           | 2016~ | Baidu NLP              | VNET                   | partialy               |
-| 1 | TriviaQA    | Univ. of Washington | 2017~ | mingyan                | ?                      | ?                      |
-| 2 | SQuAD 2.0   | Univ. of Stanford   | 2018~ | PINGAN GammaLab        | PAML+BERT (ensemble)   | x                      |
-| 3 | decaNLP     | Salesforce Research | 2018~ | Salesforce Research    | MQAN                   | x                      |
-
-## Concluded Competitions in QA
-
-|      | Dataset                                                     |           | Top Rank      | Model                                                                                                                                                          | over Human Performance  |
-|------|-------------------------------------------------------------|-----------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 2016 | [Story Cloze Test](http://cs.rochester.edu/nlp/rocstories/) | LSDSem'17 | Radford et al | [Finetuned Transformer LM](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)            |                         |
+|   | Dataset          |                     | When  | Top Rank               | Model                  | over Human Performance |
+|---|------------------|---------------------|-------|------------------------|------------------------|------------------------|
+| 0 | Story Cloze Test | Univ. of Rochester  | ~2016 | Radford et al          | LSDSem'17              | x                      |
+| 1 | MS MARCO         | Microsoft           | 2016~ | YUANFUDAO research NLP	| MARS                   | o                      |
+| 2 | MS MARCO V2      | Microsoft           | 2018~ | Ming Yan               | Deep Cascade QA        | o                      |
+| 3 | SQuAD            | Univ. of Stanford   | 2018~ | Google AI Language     | BERT (ensemble)        | o                      |
+| 4 | SQuAD 2.0        | Univ. of Stanford   | 2018~ | PINGAN GammaLab        | PAML+BERT (ensemble)   | x                      |
+| 5 | TriviaQA         | Univ. of Washington | 2017~ | Ming Yan               | -                      | -                      |
+| 6 | decaNLP          | Salesforce Research | 2018~ | Salesforce Research    | MQAN                   | x                      |
 
 ## Publications
 - Papers
