@@ -85,6 +85,9 @@ Lanugage Analysis
 - [DrQA](https://github.com/hitvoice/DrQA)
   - Facebook; official; pytorch v0.4
   - [paper](#drqa)
+- [Bert](https://github.com/google-research/bert)
+  - Google; official implementation; tensorflow v1.11.0
+  - [paper](https://arxiv.org/abs/1810.04805)
 
 ## Lectures
 - [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo) - By Dragomir Radev, Ph.D. | University of Michigan | 2016.
