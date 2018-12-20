@@ -2,6 +2,8 @@
 
 _A curated list of the __Question Answering (QA)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP)_
 
+_问答系统主题的精选列表，是信息检索和自然语言处理领域的计算机科学学科_
+
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
