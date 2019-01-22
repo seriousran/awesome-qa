@@ -1,4 +1,4 @@
-# awesome-qa [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome Question Answering [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 _A curated list of the __Question Answering (QA)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP) toward using machine learning and deep learning_
 
@@ -11,9 +11,6 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [About QA](#about-qa)
-  - [types of QA](#types-of-qa)
-  - [Anlaysis and Parsing for Pre-processing in QA systems](#anlaysis-and-parsing-for-pre-processing-in-qa-systems)
-  - [most QA systems have roughly 3 parts](#most-qa-systems-have-roughly-3-parts)
 - [Events](#events)
 - [Systems](#systems)
 - [Codes](#codes)
@@ -24,20 +21,16 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 - [Running Competitions in QA](#running-competitions-in-qa)
 - [Concluded Competitions in QA](#concluded-competitions-in-qa)
 - [Publications](#publications)
-  - [The DeepQA Research Team in IBM Watson's publication within 5 years](#the-deepqa-research-team-in-ibm-watsons-publication-within-5-years)
-  - [MS Research's publication within 5 years](#ms-researchs-publication-within-5-years)
-  - [Google AI's publication within 5 years](#google-ais-publication-within-5-years)
-  - [Facebook AI Research's publication within 5 years](#facebook-ai-researchs-publication-within-5-years)
 - [Books](#books)
 - [Links](#links)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## About QA
-### types of QA
+### Types of QA
 - Single-turn QA: answer without considering any context
 - Conversational QA: use previsous conversation turns
-#### subtypes of QA
+#### Subtypes of QA
 - Knowledge-based QA
 - Table/List-based QA
 - Text-based QA
@@ -75,22 +68,22 @@ Lanugage Analysis
 ## Codes
 - [BiDAF](https://github.com/allenai/bi-att-flow)
   - official; tensorflow v1.2
-  - [paper](https://arxiv.org/pdf/1611.01603.pdf)
+  - [Paper](https://arxiv.org/pdf/1611.01603.pdf)
 - [QANet](https://github.com/NLPLearn/QANet)
   - Google; unofficial; tensorflow v1.5
-  - [paper](#qanet)
+  - [Paper](#qanet)
 - [R-Net](https://github.com/HKUST-KnowComp/R-Net)
   - MS; unofficially by HKUST; tensorflow v1.5
-  - [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
+  - [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
 - [R-Net-in-Keras](https://github.com/YerevaNN/R-NET-in-Keras)
   - MS; unofficial; keras v2.0.6
-  - [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
+  - [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
 - [DrQA](https://github.com/hitvoice/DrQA)
   - Facebook; official; pytorch v0.4
-  - [paper](#drqa)
+  - [Paper](#drqa)
 - [BERT](https://github.com/google-research/bert)
   - Google; official implementation; tensorflow v1.11.0
-  - [paper](https://arxiv.org/abs/1810.04805)
+  - [Paper](https://arxiv.org/abs/1810.04805)
 
 ## Lectures
 - [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo) - By Dragomir Radev, Ph.D. | University of Michigan | 2016.
@@ -107,42 +100,42 @@ Lanugage Analysis
 ## Datasets
 - [AI2 Science Questions v2.1(2017)](http://data.allenai.org/ai2-science-questions/)
   - It consists of questions used in student assessments in the United States across elementary and middle school grade levels. Each question is 4-way multiple choice format and may or may not include a diagram element.
-  - paper : http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
+  - Paper : http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
 - [Children's Book Test](https://uclmr.github.io/ai4exams/data.html)
 - It is one of the bAbI project of Facebook AI Research which is organized towards the goal of automatic text understanding and reasoning. The CBT is designed to measure directly how well language models can exploit wider linguistic context.
 - [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data)
   - Hermann et al. (2015) created two awesome datasets using news articles for Q&A research. Each dataset contains many documents (90k and 197k each), and each document companies on average 4 questions approximately. Each question is a sentence with one missing word/phrase which can be found from the accompanying document/context.
-  - paper: https://arxiv.org/abs/1506.03340
+  - Paper: https://arxiv.org/abs/1506.03340
 - [GraphQuestions](https://github.com/ysu1989/GraphQuestions)
   - On generating Characteristic-rich Question sets for QA evaluation.
 - [LC-QuAD](http://sda.cs.uni-bonn.de/projects/qa-dataset/)
   - It is a gold standard KBQA (Question Answering over Knowledge Base) dataset containing 5000 Question and SPARQL queries. LC-QuAD uses DBpedia v04.16 as the target KB.
 - [MS MARCO](http://www.msmarco.org/dataset.aspx)
   - This is for real-world question answering.
-  - paper : https://arxiv.org/abs/1611.09268
+  - Paper : https://arxiv.org/abs/1611.09268
 - [MultiRC](https://cogcomp.org/multirc/)
   - A dataset of short paragraphs and multi-sentence questions
   - Paper: http://cogcomp.org/page/publication_view/833 
 - [NarrativeQA](https://github.com/deepmind/narrativeqa)
   - It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
-  - paper: https://arxiv.org/pdf/1712.07040v1.pdf
+  - Paper: https://arxiv.org/pdf/1712.07040v1.pdf
 - [NewsQA](https://github.com/Maluuba/newsqa)
   - A machine comprehension dataset
-  - paper: https://arxiv.org/pdf/1611.09830.pdf
+  - Paper: https://arxiv.org/pdf/1611.09830.pdf
 - [Qestion-Answer Dataset by CMU](http://www.cs.cmu.edu/~ark/QA-data/)
   - This is a corpus of Wikipedia articles, manually-generated factoid questions from them, and manually-generated answers to these questions, for use in academic research. These data were collected by Noah Smith, Michael Heilman, Rebecca Hwa, Shay Cohen, Kevin Gimpel, and many students at Carnegie Mellon University and the University of Pittsburgh between 2008 and 2010.
 - [SQuAD1.0](https://rajpurkar.github.io/SQuAD-explorer/)
   - Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
-  - paper: https://arxiv.org/abs/1606.05250
+  - Paper: https://arxiv.org/abs/1606.05250
 - [SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/)
   - SQuAD2.0 combines the 100,000 questions in SQuAD1.1 with over 50,000 new, unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. To do well on SQuAD2.0, systems must not only answer questions when possible, but also determine when no answer is supported by the paragraph and abstain from answering.
-  - paper: https://arxiv.org/abs/1806.03822
+  - Paper: https://arxiv.org/abs/1806.03822
 - [Story cloze test](http://cs.rochester.edu/nlp/rocstories/)
   - 'Story Cloze Test' is a new commonsense reasoning framework for evaluating story understanding, story generation, and script learning. This test requires a system to choose the correct ending to a four-sentence story.
-  - paper: https://arxiv.org/abs/1604.01696
+  - Paper: https://arxiv.org/abs/1604.01696
 - [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)
   - TriviaQA is a reading comprehension dataset containing over 650K question-answer-evidence triples. TriviaQA includes 95K question-answer pairs authored by trivia enthusiasts and independently gathered evidence documents, six per question on average, that provide high quality distant supervision for answering the questions. 
-  - paper: https://arxiv.org/abs/1705.03551
+  - Paper: https://arxiv.org/abs/1705.03551
 - [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-US%2Fdownloads%2F4495da01-db8c-4041-a7f6-7984a4f6a905%2Fdefault.aspx)
   - A publicly available set of question and sentence pairs for open-domain question answering.
 
