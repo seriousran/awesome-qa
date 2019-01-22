@@ -37,7 +37,7 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 - Community-based QA
 - Visual QA
 
-### Anlaysis and Parsing for Pre-processing in QA systems
+### Analysis and Parsing for Pre-processing in QA systems
 Lanugage Analysis
   1. [Morphological analysis](https://www.cs.bham.ac.uk/~pjh/sem1a5/pt2/pt2_intro_morphology.html)
   2. [Named Entity Recognition(NER)](mds/named-entity-recognition.md)
