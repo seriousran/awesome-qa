@@ -18,7 +18,7 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 - [Slides](#slides)
 - [Dataset Collections](#dataset-collections)
 - [Datasets](#datasets)
-- [Running Competitions in QA](#running-competitions-in-qa)
+- [Competitions in QA](#competitions-in-qa)
 - [Concluded Competitions in QA](#concluded-competitions-in-qa)
 - [Publications](#publications)
 - [Books](#books)
@@ -66,22 +66,22 @@ Lanugage Analysis
 - [MIT media lab's Knowledge graph](http://conceptnet.io/) - Is a freely-available semantic network, designed to help computers understand the meanings of words that people use.
 
 ## Codes
-- [BiDAF](https://github.com/allenai/bi-att-flow)
+- [BiDAF](https://github.com/allenai/bi-att-flow) - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization. 
   - official; tensorflow v1.2
   - [Paper](https://arxiv.org/pdf/1611.01603.pdf)
-- [QANet](https://github.com/NLPLearn/QANet)
+- [QANet](https://github.com/NLPLearn/QANet) - A Q&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions.
   - Google; unofficial; tensorflow v1.5
   - [Paper](#qanet)
-- [R-Net](https://github.com/HKUST-KnowComp/R-Net)
+- [R-Net](https://github.com/HKUST-KnowComp/R-Net) - An end-to-end neural networks model for reading comprehension style question answering, which aims to answer questions from a given passage.
   - MS; unofficially by HKUST; tensorflow v1.5
   - [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
-- [R-Net-in-Keras](https://github.com/YerevaNN/R-NET-in-Keras)
+- [R-Net-in-Keras](https://github.com/YerevaNN/R-NET-in-Keras) - R-NET re-implementation in Keras.
   - MS; unofficial; keras v2.0.6
   - [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
-- [DrQA](https://github.com/hitvoice/DrQA)
+- [DrQA](https://github.com/hitvoice/DrQA) - DrQA is a system for reading comprehension applied to open-domain question answering.
   - Facebook; official; pytorch v0.4
   - [Paper](#drqa)
-- [BERT](https://github.com/google-research/bert)
+- [BERT](https://github.com/google-research/bert) - A new language representation model which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers. 
   - Google; official implementation; tensorflow v1.11.0
   - [Paper](https://arxiv.org/abs/1810.04805)
 
@@ -95,7 +95,6 @@ Lanugage Analysis
 ## Dataset Collections
 - [NLIWOD's Question answering datasets](https://github.com/dice-group/NLIWOD/tree/master/qa.datasets)
 - [karthinkncode's Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets)
-- [sebastianruder's NLP-progess/Question answering](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md)
 
 ## Datasets
 - [AI2 Science Questions v2.1(2017)](http://data.allenai.org/ai2-science-questions/)
@@ -169,7 +168,7 @@ Lanugage Analysis
 ### The DeepQA Research Team in IBM Watson's publication within 5 years
 - 2015
   - "Automated Problem List Generation from Electronic Medical Records in IBM Watson", Murthy Devarakonda, Ching-Huei Tsou, IAAI, 2015.
-  - ["Decision Making in IBM Watson Question Answering"](https://pdfs.semanticscholar.org/presentation/6285/0c8902f8e2a079b2fe356a73a21cea55c9d2.pdf), J. William Murdock, Ontology summit, 2015.
+  - "Decision Making in IBM Watson Question Answering", J. William Murdock, Ontology summit, 2015.
   - ["Unsupervised Entity-Relation Analysis in IBM Watson"](http://www.cogsys.org/papers/ACS2015/article12.pdf), Aditya Kalyanpur, J William Murdock, ACS, 2015.
   - "Commonsense Reasoning: An Event Calculus Based Approach", E T Mueller, Morgan Kaufmann/Elsevier, 2015.
 - 2014
