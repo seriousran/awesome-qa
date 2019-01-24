@@ -99,7 +99,7 @@ Lanugage Analysis
 ## Datasets
 - [AI2 Science Questions v2.1(2017)](http://data.allenai.org/ai2-science-questions/)
   - It consists of questions used in student assessments in the United States across elementary and middle school grade levels. Each question is 4-way multiple choice format and may or may not include a diagram element.
-  - Paper : http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
+  - Paper: http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
 - [Children's Book Test](https://uclmr.github.io/ai4exams/data.html)
 - It is one of the bAbI project of Facebook AI Research which is organized towards the goal of automatic text understanding and reasoning. The CBT is designed to measure directly how well language models can exploit wider linguistic context.
 - [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data)
@@ -111,7 +111,7 @@ Lanugage Analysis
   - It is a gold standard KBQA (Question Answering over Knowledge Base) dataset containing 5000 Question and SPARQL queries. LC-QuAD uses DBpedia v04.16 as the target KB.
 - [MS MARCO](http://www.msmarco.org/dataset.aspx)
   - This is for real-world question answering.
-  - Paper : https://arxiv.org/abs/1611.09268
+  - Paper: https://arxiv.org/abs/1611.09268
 - [MultiRC](https://cogcomp.org/multirc/)
   - A dataset of short paragraphs and multi-sentence questions
   - Paper: http://cogcomp.org/page/publication_view/833 
