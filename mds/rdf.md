@@ -1,3 +1,5 @@
+# Resrouce Description Framework(RDF)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -17,15 +19,15 @@
   - Resouce
   - Description
   - Framework
-: for Machine processible, readable, understandable Linked Data from web as database
-: has a [Graph Model](#graph-model)
+: For Machine processible, readable, understandable Linked Data from web as database
+: Has a [Graph Model](#graph-model)
 - RDF Schema
   - RDF Schema gives additional information(Domain, Range) about preoperty.
   - Describe the type(or Class) of Resource. ex)Book, Person, Publisher
 - RDF Syntac
 
 ### Events
-- mid 1990s: MCF(Meta Content Framework) - Ramanathan V. Guha & Tim Bray
+- Mid 1990s: MCF(Meta Content Framework) - Ramanathan V. Guha & Tim Bray
 (Apple)
 - 1997: MCF/XML - Ramanathan V. Guha & Tim Bray
 - 1998: RDF - W3C
