@@ -54,7 +54,7 @@
   
   ![](/images/img-001.png)
   
-  - relation and extraction rules
+  - Relation and extraction rules
     ```
     Eztraction Rules:
       NounGroup := (PRPZ|DT)? {JJX*} {(NNPX|NNX|NNPS|NNS)+};
@@ -67,13 +67,13 @@
         ;related-to;
         [1],PrepositionalPhrase[0], NounGroup[1]>; 
     ```
-    PRPZ: part-of-speech tag for possessive pronouns
-    DT: " for determiners
-    JJX: " for adjectives
-    JJR: " for comparative adjectives
-    JJS: " for uperlative adjectives
-    NNX: " for singular or mass nouns
-    NNS: " for plural nouns
-    NNPX: " for singular proper nouns
-    NNPS: " for plural proper nouns
-    IN: " for prepositions
+    PRPZ: Part-of-speech tag for possessive pronouns <br/> 
+    DT: " for determiners <br/>
+    JJX: " for adjectives <br/>
+    JJR: " for comparative adjectives <br/>
+    JJS: " for uperlative adjectives <br/>
+    NNX: " for singular or mass nouns <br/>
+    NNS: " for plural nouns <br/>
+    NNPX: " for singular proper nouns <br/>
+    NNPS: " for plural proper nouns <br/>
+    IN: " for prepositions <br/>
