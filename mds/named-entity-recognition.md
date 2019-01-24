@@ -4,11 +4,11 @@ Named-entity recognition (NER) (also known as entity identification, entity chun
 
 Most research on NER systems has been structured as taking an unannotated block of text, such as this one:
 
-Jim bought 300 shares of Acme Corp. in 2006.
+```Jim bought 300 shares of Acme Corp. in 2006.```
 
 And producing an annotated block of text that highlights the names of entities:
 
-[Jim]Person bought 300 shares of [Acme Corp.]Organization in [2006]Time.
+```[Jim]Person bought 300 shares of [Acme Corp.]Organization in [2006]Time.```
 
 In this example, a person name consisting of one token, a two-token company name and a temporal expression have been detected and classified.
 
