@@ -13,14 +13,13 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 - [About QA](#about-qa)
 - [Events](#events)
 - [Systems](#systems)
+- [Competitions in QA](#competitions-in-qa)
+- [Publications](#publications)
 - [Codes](#codes)
 - [Lectures](#lectures)
 - [Slides](#slides)
 - [Dataset Collections](#dataset-collections)
 - [Datasets](#datasets)
-- [Competitions in QA](#competitions-in-qa)
-- [Concluded Competitions in QA](#concluded-competitions-in-qa)
-- [Publications](#publications)
 - [Books](#books)
 - [Links](#links)
 
@@ -64,6 +63,33 @@ Lanugage Analysis
 - [IBM Watson](https://www.ibm.com/watson/) - Has state-of-the-arts performance. 
 - [Facebook DrQA](https://research.fb.com/downloads/drqa/) - Applied to the SQuAD1.0 dataset. The SQuAD2.0 dataset has released. but DrQA is not tested yet.
 - [MIT media lab's Knowledge graph](http://conceptnet.io/) - Is a freely-available semantic network, designed to help computers understand the meanings of words that people use.
+
+## Competitions in QA
+
+|   | Dataset          | Language      | Organizer           | Since | Top Rank               | Model                   | Status | Over Human Performance |
+|---|------------------|---------------|---------------------|-------|-------------------------|-------------------------|--------|------------------------|
+| 0 | [Story Cloze Test](http://cs.rochester.edu/~nasrinm/files/Papers/lsdsem17-shared-task.pdf) | English       | Univ. of Rochester    | 2016 | msap                   | Logistic regression | Closed | x                      |
+| 1 | MS MARCO         | English       | Microsoft           | 2016  | YUANFUDAO research NLP  | MARS                    | Closed | o                      |
+| 2 | MS MARCO V2      | English       | Microsoft           | 2018  | NTT Media Intelli. Lab. | Masque Q&A Style        | Opened | x                      |
+| 3 | [SQuAD](https://arxiv.org/abs/1606.05250)            | English       | Univ. of Stanford   | 2018  | Google AI Language      | BERT (ensemble)         | Closed | o                      |
+| 4 | [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)        | English       | Univ. of Stanford   | 2018  | Microsoft Research Asia | BERT+MMFT+ADA (ensemble) | Opened | x                      |
+| 5 | [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)         | English       | Univ. of Washington | 2017  | Ming Yan                | -                       | Closed | -                      |
+| 6 | [decaNLP](https://decanlp.com/)          | English       | Salesforce Research | 2018  | Salesforce Research     | MQAN                    | Closed | x                      |
+
+## Publications
+- Papers
+  - ["Learning to Skim Text"](https://arxiv.org/pdf/1704.06877.pdf), Adams Wei Yu, Hongrae Lee, Quoc V. Le, 2017.
+    : Show only what you want in Text
+  - ["Deep Joint Entity Disambiguation with Local Neural Attention"](https://arxiv.org/pdf/1704.04920.pdf), Octavian-Eugen Ganea and Thomas Hofmann, 2017.
+  - ["BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION"](https://arxiv.org/pdf/1611.01603.pdf), Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, Hananneh Hajishirzi, ICLR, 2017.
+  - ["Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks"](http://nlp.cs.berkeley.edu/pubs/FrancisLandau-Durrett-Klein_2016_EntityConvnets_paper.pdf), Matthew Francis-Landau, Greg Durrett and Dan Klei, NAACL-HLT 2016.
+    - https://GitHub.com/matthewfl/nlp-entity-convnet
+  - ["Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions"](https://ieeexplore.ieee.org/document/6823700/), Wei Shen, Jianyong Wang, Jiawei Han, IEEE Transactions on Knowledge and Data Engineering(TKDE), 2014.
+  - ["Introduction to “This is Watson"](https://ieeexplore.ieee.org/document/6177724/), IBM Journal of Research and Development, D. A. Ferrucci, 2012.
+  - ["A survey on question answering technology from an information retrieval perspective"](https://www.sciencedirect.com/science/article/pii/S0020025511003860), Information Sciences, 2011.
+  - ["Question Answering in Restricted Domains: An Overview"](https://www.mitpressjournals.org/doi/abs/10.1162/coli.2007.33.1.41), Diego Mollá and José Luis Vicedo, Computational Linguistics, 2007
+  - ["Natural language question answering: the view from here"](), L Hirschman, R Gaizauskas, natural language engineering, 2001.
+  - Entity Disambiguation / Entity Linking
 
 ## Codes
 - [BiDAF](https://github.com/allenai/bi-att-flow) - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization. 
@@ -137,34 +163,7 @@ Lanugage Analysis
   - Paper: https://arxiv.org/abs/1705.03551
 - [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-US%2Fdownloads%2F4495da01-db8c-4041-a7f6-7984a4f6a905%2Fdefault.aspx)
   - A publicly available set of question and sentence pairs for open-domain question answering.
-
-## Competitions in QA
-
-|   | Dataset          |                     | When  | Top Rank               | Model                  | Over Human Performance |
-|---|------------------|---------------------|-------|------------------------|------------------------|------------------------|
-| 0 | Story Cloze Test | Univ. of Rochester  | ~2016 | Radford et al          | LSDSem'17              | x                      |
-| 1 | MS MARCO         | Microsoft           | 2016~ | YUANFUDAO research NLP	| MARS                   | o                      |
-| 2 | MS MARCO V2      | Microsoft           | 2018~ | Ming Yan               | Deep Cascade QA        | o                      |
-| 3 | SQuAD            | Univ. of Stanford   | 2018~ | Google AI Language     | BERT (ensemble)        | o                      |
-| 4 | SQuAD 2.0        | Univ. of Stanford   | 2018~ | PINGAN GammaLab        | PAML+BERT (ensemble)   | x                      |
-| 5 | TriviaQA         | Univ. of Washington | 2017~ | Ming Yan               | -                      | -                      |
-| 6 | decaNLP          | Salesforce Research | 2018~ | Salesforce Research    | MQAN                   | x                      |
-
-## Publications
-- Papers
-  - ["Learning to Skim Text"](https://arxiv.org/pdf/1704.06877.pdf), Adams Wei Yu, Hongrae Lee, Quoc V. Le, 2017.
-    : Show only what you want in Text
-  - ["Deep Joint Entity Disambiguation with Local Neural Attention"](https://arxiv.org/pdf/1704.04920.pdf), Octavian-Eugen Ganea and Thomas Hofmann, 2017.
-  - ["BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION"](https://arxiv.org/pdf/1611.01603.pdf), Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, Hananneh Hajishirzi, ICLR, 2017.
-  - ["Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks"](http://nlp.cs.berkeley.edu/pubs/FrancisLandau-Durrett-Klein_2016_EntityConvnets_paper.pdf), Matthew Francis-Landau, Greg Durrett and Dan Klei, NAACL-HLT 2016.
-    - https://GitHub.com/matthewfl/nlp-entity-convnet
-  - ["Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions"](https://ieeexplore.ieee.org/document/6823700/), Wei Shen, Jianyong Wang, Jiawei Han, IEEE Transactions on Knowledge and Data Engineering(TKDE), 2014.
-  - ["Introduction to “This is Watson"](https://ieeexplore.ieee.org/document/6177724/), IBM Journal of Research and Development, D. A. Ferrucci, 2012.
-  - ["A survey on question answering technology from an information retrieval perspective"](https://www.sciencedirect.com/science/article/pii/S0020025511003860), Information Sciences, 2011.
-  - ["Question Answering in Restricted Domains: An Overview"](https://www.mitpressjournals.org/doi/abs/10.1162/coli.2007.33.1.41), Diego Mollá and José Luis Vicedo, Computational Linguistics, 2007
-  - ["Natural language question answering: the view from here"](), L Hirschman, R Gaizauskas, natural language engineering, 2001.
-  - Entity Disambiguation / Entity Linking
-    
+  
 ### The DeepQA Research Team in IBM Watson's publication within 5 years
 - 2015
   - "Automated Problem List Generation from Electronic Medical Records in IBM Watson", Murthy Devarakonda, Ching-Huei Tsou, IAAI, 2015.
