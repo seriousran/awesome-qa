@@ -75,6 +75,9 @@ Lanugage Analysis
 | 4 | [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)        | English       | Univ. of Stanford   | 2018  | Microsoft Research Asia | BERT+MMFT+ADA (ensemble) | Opened | x                      |
 | 5 | [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)         | English       | Univ. of Washington | 2017  | Ming Yan                | -                       | Closed | -                      |
 | 6 | [decaNLP](https://decanlp.com/)          | English       | Salesforce Research | 2018  | Salesforce Research     | MQAN                    | Closed | x                      |
+| 7 | [DuReader Ver1.](https://ai.baidu.com/broad/introduction)          | Chinese       | Baidu               | 2015  | Tryer                    | T-Reader (single)       | Closed | x                      |
+| 8 | [DuReader Ver2.](https://ai.baidu.com/broad/introduction)          | Chinese       | Baidu               | 2017  | renaissance             | AliReader               | Opened | x                      |
+| 9 | [KorQuAD](https://korquad.github.io/)    | Korean     | LG CNS AI Research | 2018  | Kakao NLP Team          | BERT LM fine-tuned (single) + KHAIII                    | Closed | o                      |
 
 ## Publications
 - Papers
