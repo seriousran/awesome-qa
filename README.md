@@ -1,6 +1,6 @@
 # Awesome Question Answering [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-_A curated list of the __Question Answering (QA)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP) toward using machine learning and deep learning_
+_A curated list of the __[Question Answering (QA)](https://en.wikipedia.org/wiki/Question_answering)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP) toward using machine learning and deep learning_
 
 _정보 검색 및 자연 언어 처리 분야의 질의응답에 관한 큐레이션 - 머신러닝과 딥러닝 단계까지_<br/>
 _问答系统主题的精选列表，是信息检索和自然语言处理领域的计算机科学学科 - 使用机器学习和深度学习_
