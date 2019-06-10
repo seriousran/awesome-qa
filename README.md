@@ -10,6 +10,7 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Recent Trend, BERT](#recent-trend-bert)
 - [About QA](#about-qa)
 - [Events](#events)
 - [Systems](#systems)
@@ -25,6 +26,19 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Recent Trend, BERT
+### BERT
+- Original paper
+  - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), Jacob Devlin, et al., arXiv preprint, 2018.
+- QA
+  - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634), Chris Alberti, et al., arXiv preprint, Jan 2019.
+  - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085), Rodrigo Nogueira, et al., arXiv preprint, Jan 2019.
+  - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718), Wei Yang, et al., arXiv preprint, Feb 2019.
+  - [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531), Yifan Qiao, et al., arXiv preprint, Apr 2019.
+  - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232), Hu Xu, et al., arXiv preprint, Apr 2019.
+  - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758), Harshith Padigela, et al., arXiv preprint, May 2019.
+  - [BERT with History Answer Embedding for Conversational Question Answering](https://arxiv.org/abs/1905.05412), Chen Qu, et al., arXiv preprint, May 2019.
+  
 ## About QA
 ### Types of QA
 - Single-turn QA: answer without considering any context
@@ -71,8 +85,8 @@ Lanugage Analysis
 | 0 | [Story Cloze Test](http://cs.rochester.edu/~nasrinm/files/Papers/lsdsem17-shared-task.pdf) | English       | Univ. of Rochester    | 2016 | msap                   | Logistic regression | Closed | x                      |
 | 1 | MS MARCO         | English       | Microsoft           | 2016  | YUANFUDAO research NLP  | MARS                    | Closed | o                      |
 | 2 | MS MARCO V2      | English       | Microsoft           | 2018  | NTT Media Intelli. Lab. | Masque Q&A Style        | Opened | x                      |
-| 3 | [SQuAD](https://arxiv.org/abs/1606.05250)            | English       | Univ. of Stanford   | 2018  | Google AI Language      | BERT (ensemble)         | Closed | o                      |
-| 4 | [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)        | English       | Univ. of Stanford   | 2018  | Microsoft Research Asia | BERT+MMFT+ADA (ensemble) | Opened | x                      |
+| 3 | [SQuAD](https://arxiv.org/abs/1606.05250)            | English       | Univ. of Stanford   | 2018  | XLNet (single model)  |XLNet Team | Closed | o                      |
+| 4 | [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)        | English       | Univ. of Stanford   | 2018  | Joint Laboratory of HIT and iFLYTEK Research | BERT + DAE + AoA (ensemble) | Opened | o                      |
 | 5 | [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)         | English       | Univ. of Washington | 2017  | Ming Yan                | -                       | Closed | -                      |
 | 6 | [decaNLP](https://decanlp.com/)          | English       | Salesforce Research | 2018  | Salesforce Research     | MQAN                    | Closed | x                      |
 | 7 | [DuReader Ver1.](https://ai.baidu.com/broad/introduction)          | Chinese       | Baidu               | 2015  | Tryer                    | T-Reader (single)       | Closed | x                      |
