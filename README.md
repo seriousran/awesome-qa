@@ -31,6 +31,7 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 - Original paper
   - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), Jacob Devlin, et al., arXiv preprint, 2018.
 - QA
+  - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593), Chenguang Zhu, et al., arXiv, Dec 2018.
   - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634), Chris Alberti, et al., arXiv preprint, Jan 2019.
   - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085), Rodrigo Nogueira, et al., arXiv preprint, Jan 2019.
   - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718), Wei Yang, et al., arXiv preprint, Feb 2019.
@@ -92,6 +93,7 @@ Lanugage Analysis
 | 7 | [DuReader Ver1.](https://ai.baidu.com/broad/introduction)          | Chinese       | Baidu               | 2015  | Tryer                    | T-Reader (single)       | Closed | x                      |
 | 8 | [DuReader Ver2.](https://ai.baidu.com/broad/introduction)          | Chinese       | Baidu               | 2017  | renaissance             | AliReader               | Opened | x                      |
 | 9 | [KorQuAD](https://korquad.github.io/)    | Korean     | LG CNS AI Research | 2018  | Kakao NLP Team          | BERT LM fine-tuned (single) + KHAIII                    | Closed | o                      |
+| 10 | [CoQA](https://stanfordnlp.github.io/coqa/)    | English     | Univ. of Stanford | 2018  | MSRA + SDRG          | Google SQuAD 2.0 + MMFT (ensemble)                | Opened | o                      |
 
 ## Publications
 - Papers
