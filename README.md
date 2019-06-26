@@ -10,7 +10,7 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Recent Trend, BERT](#recent-trend-bert)
+- [Recent Trend](#recent-trend)
 - [About QA](#about-qa)
 - [Events](#events)
 - [Systems](#systems)
@@ -26,7 +26,10 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Recent Trend, BERT
+## Recent Trend
+### XLNet
+- Original paper
+  - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237), Zhilin Yang, et al., arXiv preprint, 2019.
 ### BERT
 - Original paper
   - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), Jacob Devlin, et al., arXiv preprint, 2018.
