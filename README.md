@@ -31,8 +31,9 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 - Original paper
   - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237), Zhilin Yang, et al., arXiv preprint, 2019.
 ### BERT
-- Original paper
+- Language Model
   - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), Jacob Devlin, et al., arXiv preprint, 2018.
+  - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), Yinhan Liu, et al., arXiv preprint, 2019.
 - QA
   - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593), Chenguang Zhu, et al., arXiv, Dec 2018.
   - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634), Chris Alberti, et al., arXiv preprint, Jan 2019.
@@ -42,6 +43,16 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232), Hu Xu, et al., arXiv preprint, Apr 2019.
   - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758), Harshith Padigela, et al., arXiv preprint, May 2019.
   - [BERT with History Answer Embedding for Conversational Question Answering](https://arxiv.org/abs/1905.05412), Chen Qu, et al., arXiv preprint, May 2019.
+### ACL 2019
+  - [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index](https://arxiv.org/abs/1906.05807), Minjoon Seo, et al., ACL 2019, Jun 2019.
+  - [Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension](https://arxiv.org/abs/1811.00232), Daesik Kim, et al., ACL 2019, Nov 2018.
+  - [Episodic Memory Reader: Learning what to Remember for Question Answering from Streaming Data](https://arxiv.org/abs/1903.06164), Moonsu Han, et al., ACL 2019, Mar 2019.
+  - [Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader](https://arxiv.org/abs/1905.07098), Wenhan Xiong, et al., ACL 2019, May 2019.
+  - [Unsupervised Question Answering by Cloze Translation](https://arxiv.org/abs/1906.04980), Patrick Lewis, et al., ACL 2019, Jun 2019.
+  - [Overview of the MEDIQA 2019 Shared Task on Textual Inference,
+Question Entailment and Question Answering](https://www.aclweb.org/anthology/W19-5039), Asma Ben Abacha, et al., ACL-W 2019, Aug 2019.
+  - [SemEval-2019 Task 10: Math Question Answering](https://www.aclweb.org/anthology/S19-2153), Mark Hopkins, et al., ACL-W 2019, Jun 2019.
+  - [Natural Questions: a Benchmark for Question Answering Research](https://ai.google/research/pubs/pub47761), Tom Kwiatkowski, et al., TACL 2019, Jan 2019.
   
 ## About QA
 ### Types of QA
@@ -94,9 +105,10 @@ Lanugage Analysis
 | 5 | [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)         | English       | Univ. of Washington | 2017  | Ming Yan                | -                       | Closed | -                      |
 | 6 | [decaNLP](https://decanlp.com/)          | English       | Salesforce Research | 2018  | Salesforce Research     | MQAN                    | Closed | x                      |
 | 7 | [DuReader Ver1.](https://ai.baidu.com/broad/introduction)          | Chinese       | Baidu               | 2015  | Tryer                    | T-Reader (single)       | Closed | x                      |
-| 8 | [DuReader Ver2.](https://ai.baidu.com/broad/introduction)          | Chinese       | Baidu               | 2017  | renaissance             | AliReader               | Opened | x                      |
-| 9 | [KorQuAD](https://korquad.github.io/)    | Korean     | LG CNS AI Research | 2018  | Kakao NLP Team          | BERT LM fine-tuned (single) + KHAIII                    | Closed | o                      |
-| 10 | [CoQA](https://stanfordnlp.github.io/coqa/)    | English     | Univ. of Stanford | 2018  | MSRA + SDRG          | Google SQuAD 2.0 + MMFT (ensemble)                | Opened | o                      |
+| 8 | [DuReader Ver2.](https://ai.baidu.com/broad/introduction)          | Chinese       | Baidu               | 2017  | renaissance             | AliReader               | Opened | -                      |
+| 9 | [KorQuAD](https://korquad.github.io/KorQuad%201.0/)    | Korean     | LG CNS AI Research | 2018  | Clova AI LaRva Team      | LaRva-Kor-Large+ + CLaF (single)  | Closed | o                      |
+| 10 | [KorQuAD 2.0](https://korquad.github.io/)    | Korean     | LG CNS AI Research | 2019  | -          | -                    | Opened | x                      |
+| 11 | [CoQA](https://stanfordnlp.github.io/coqa/)    | English     | Univ. of Stanford | 2018  | MSRA + SDRG          | Google SQuAD 2.0 + MMFT (ensemble)                | Opened | o                      |
 
 ## Publications
 - Papers
