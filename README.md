@@ -32,27 +32,44 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237), Zhilin Yang, et al., arXiv preprint, 2019.
 ### BERT
 - Language Model
-  - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), Jacob Devlin, et al., arXiv preprint, 2018.
+  - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), Jacob Devlin, et al., NAACL 2019, 2018.
   - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), Yinhan Liu, et al., arXiv preprint, 2019.
+  - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942), Zhenzhong Lan, et al., arXiv preprint, 2019.
 - QA
-  - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593), Chenguang Zhu, et al., arXiv, Dec 2018.
-  - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634), Chris Alberti, et al., arXiv preprint, Jan 2019.
-  - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085), Rodrigo Nogueira, et al., arXiv preprint, Jan 2019.
-  - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718), Wei Yang, et al., arXiv preprint, Feb 2019.
-  - [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531), Yifan Qiao, et al., arXiv preprint, Apr 2019.
-  - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232), Hu Xu, et al., arXiv preprint, Apr 2019.
   - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758), Harshith Padigela, et al., arXiv preprint, May 2019.
   - [BERT with History Answer Embedding for Conversational Question Answering](https://arxiv.org/abs/1905.05412), Chen Qu, et al., arXiv preprint, May 2019.
+  - [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531), Yifan Qiao, et al., arXiv preprint, Apr 2019.
+  - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232), Hu Xu, et al., arXiv preprint, Apr 2019.
+  - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718), Wei Yang, et al., arXiv preprint, Feb 2019.
+  - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634), Chris Alberti, et al., arXiv preprint, Jan 2019.
+  - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085), Rodrigo Nogueira, et al., arXiv preprint, Jan 2019.
+  - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593), Chenguang Zhu, et al., arXiv, Dec 2018.
+### AAAI 2020
+  - [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/pdf/1911.04118.pdf), Siddhant Garg, et al., AAAI 2020, Nov 2019.
 ### ACL 2019
-  - [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index](https://arxiv.org/abs/1906.05807), Minjoon Seo, et al., ACL 2019, Jun 2019.
-  - [Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension](https://arxiv.org/abs/1811.00232), Daesik Kim, et al., ACL 2019, Nov 2018.
-  - [Episodic Memory Reader: Learning what to Remember for Question Answering from Streaming Data](https://arxiv.org/abs/1903.06164), Moonsu Han, et al., ACL 2019, Mar 2019.
-  - [Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader](https://arxiv.org/abs/1905.07098), Wenhan Xiong, et al., ACL 2019, May 2019.
-  - [Unsupervised Question Answering by Cloze Translation](https://arxiv.org/abs/1906.04980), Patrick Lewis, et al., ACL 2019, Jun 2019.
   - [Overview of the MEDIQA 2019 Shared Task on Textual Inference,
 Question Entailment and Question Answering](https://www.aclweb.org/anthology/W19-5039), Asma Ben Abacha, et al., ACL-W 2019, Aug 2019.
+  - [Towards Scalable and Reliable Capsule Networks for Challenging NLP Applications](https://arxiv.org/pdf/1906.02829v1.pdf), Wei Zhao, et al., ACL 2019, Jun 2019.
+  - [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://arxiv.org/pdf/1905.05460v2.pdf), Ming Ding, et al., ACL 2019, Jun 2019.
+  - [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index](https://arxiv.org/abs/1906.05807), Minjoon Seo, et al., ACL 2019, Jun 2019.
+  - [Unsupervised Question Answering by Cloze Translation](https://arxiv.org/abs/1906.04980), Patrick Lewis, et al., ACL 2019, Jun 2019.
   - [SemEval-2019 Task 10: Math Question Answering](https://www.aclweb.org/anthology/S19-2153), Mark Hopkins, et al., ACL-W 2019, Jun 2019.
+  - [Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader](https://arxiv.org/abs/1905.07098), Wenhan Xiong, et al., ACL 2019, May 2019.
+  - [Matching Article Pairs with Graphical Decomposition and Convolutions](https://arxiv.org/pdf/1802.07459v2.pdf), Bang Liu, et al., ACL 2019, May 2019.
+  - [Episodic Memory Reader: Learning what to Remember for Question Answering from Streaming Data](https://arxiv.org/abs/1903.06164), Moonsu Han, et al., ACL 2019, Mar 2019.
   - [Natural Questions: a Benchmark for Question Answering Research](https://ai.google/research/pubs/pub47761), Tom Kwiatkowski, et al., TACL 2019, Jan 2019.
+  - [Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension](https://arxiv.org/abs/1811.00232), Daesik Kim, et al., ACL 2019, Nov 2018.
+### EMNLP-IJCNLP 2019
+  - [Language Models as Knowledge Bases?](https://arxiv.org/pdf/1909.01066v2.pdf), Fabio Petron, et al., EMNLP-IJCNLP 2019, Sep 2019.
+  - [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490v3.pdf), Hao Tan, et al., EMNLP-IJCNLP 2019, Dec 2019.
+  - [Answering Complex Open-domain Questions Through Iterative Query Generation](https://arxiv.org/pdf/1910.07000v1.pdf), Peng Qi, et al., EMNLP-IJCNLP 2019, Oct 2019.
+  - [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://arxiv.org/pdf/1909.02151v1.pdf), Bill Yuchen Lin, et al., EMNLP-IJCNLP 2019, Sep 2019.
+  - [Mixture Content Selection for Diverse Sequence Generation](https://arxiv.org/pdf/1909.01953v1.pdf), Jaemin Cho, et al., EMNLP-IJCNLP 2019, Sep 2019.
+  - [A Discrete Hard EM Approach for Weakly Supervised Question Answering](https://arxiv.org/pdf/1909.04849v1.pdf), Sewon Min, et al., EMNLP-IJCNLP, 2019, Sep 2019.
+### Dataset
+  - [ELI5: Long Form Question Answering](https://arxiv.org/abs/1907.09190), Angela Fan, et al., ACL 2019, Jul 2019
+  - [CODAH: An Adversarially-Authored Question Answering Dataset for
+Common Sense](https://www.aclweb.org/anthology/W19-2008.pdf), Michael Chen, et al., RepEval 2019, Jun 2019.
   
 ## About QA
 ### Types of QA
@@ -101,14 +118,14 @@ Lanugage Analysis
 | 1 | MS MARCO         | English       | Microsoft           | 2016  | YUANFUDAO research NLP  | MARS                    | Closed | o                      |
 | 2 | MS MARCO V2      | English       | Microsoft           | 2018  | NTT Media Intelli. Lab. | Masque Q&A Style        | Opened | x                      |
 | 3 | [SQuAD](https://arxiv.org/abs/1606.05250)            | English       | Univ. of Stanford   | 2018  | XLNet (single model)  |XLNet Team | Closed | o                      |
-| 4 | [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)        | English       | Univ. of Stanford   | 2018  | Joint Laboratory of HIT and iFLYTEK Research | BERT + DAE + AoA (ensemble) | Opened | o                      |
+| 4 | [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)        | English       | Univ. of Stanford   | 2018  | PINGAN Omni-Sinitic | ALBERT + DAAF + Verifier (ensemble) | Opened | o                      |
 | 5 | [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)         | English       | Univ. of Washington | 2017  | Ming Yan                | -                       | Closed | -                      |
 | 6 | [decaNLP](https://decanlp.com/)          | English       | Salesforce Research | 2018  | Salesforce Research     | MQAN                    | Closed | x                      |
 | 7 | [DuReader Ver1.](https://ai.baidu.com/broad/introduction)          | Chinese       | Baidu               | 2015  | Tryer                    | T-Reader (single)       | Closed | x                      |
 | 8 | [DuReader Ver2.](https://ai.baidu.com/broad/introduction)          | Chinese       | Baidu               | 2017  | renaissance             | AliReader               | Opened | -                      |
 | 9 | [KorQuAD](https://korquad.github.io/KorQuad%201.0/)    | Korean     | LG CNS AI Research | 2018  | Clova AI LaRva Team      | LaRva-Kor-Large+ + CLaF (single)  | Closed | o                      |
-| 10 | [KorQuAD 2.0](https://korquad.github.io/)    | Korean     | LG CNS AI Research | 2019  | -          | -                    | Opened | x                      |
-| 11 | [CoQA](https://stanfordnlp.github.io/coqa/)    | English     | Univ. of Stanford | 2018  | MSRA + SDRG          | Google SQuAD 2.0 + MMFT (ensemble)                | Opened | o                      |
+| 10 | [KorQuAD 2.0](https://korquad.github.io/)    | Korean     | LG CNS AI Research | 2019  | Kangwon National University | KNU-baseline(single model) | Opened | x                      |
+| 11 | [CoQA](https://stanfordnlp.github.io/coqa/)    | English     | Univ. of Stanford | 2018  | Zhuiyi Technology | RoBERTa + AT + KD (ensemble) | Opened | o                      |
 
 ## Publications
 - Papers
@@ -162,9 +179,12 @@ Lanugage Analysis
   - Paper: http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
 - [Children's Book Test](https://uclmr.github.io/ai4exams/data.html)
 - It is one of the bAbI project of Facebook AI Research which is organized towards the goal of automatic text understanding and reasoning. The CBT is designed to measure directly how well language models can exploit wider linguistic context.
+- [CODAH Dataset](https://github.com/Websail-NU/CODAH)
 - [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data)
   - Hermann et al. (2015) created two awesome datasets using news articles for Q&A research. Each dataset contains many documents (90k and 197k each), and each document companies on average 4 questions approximately. Each question is a sentence with one missing word/phrase which can be found from the accompanying document/context.
   - Paper: https://arxiv.org/abs/1506.03340
+- [ELI5](https://github.com/facebookresearch/ELI5)
+  - Paper: https://arxiv.org/abs/1907.09190
 - [GraphQuestions](https://github.com/ysu1989/GraphQuestions)
   - On generating Characteristic-rich Question sets for QA evaluation.
 - [LC-QuAD](http://sda.cs.uni-bonn.de/projects/qa-dataset/)
