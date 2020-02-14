@@ -27,6 +27,12 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Recent Trend
+### T5
+- Original paper
+  - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683), Colin Raffel, et al., arXiv preprint, 2019.
+### ERNIE
+- Original paper
+  - [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129), Zhengyan Zhang, et al., ACL, 2019.
 ### XLNet
 - Original paper
   - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237), Zhilin Yang, et al., arXiv preprint, 2019.
