@@ -27,29 +27,30 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Recent Trend
-### T5
-- Original paper
-  - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683), Colin Raffel, et al., arXiv preprint, 2019.
-### ERNIE
-- Original paper
-  - [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129), Zhengyan Zhang, et al., ACL, 2019.
-### XLNet
-- Original paper
-  - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237), Zhilin Yang, et al., arXiv preprint, 2019.
-### BERT
-- Language Model
-  - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), Jacob Devlin, et al., NAACL 2019, 2018.
-  - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), Yinhan Liu, et al., arXiv preprint, 2019.
-  - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942), Zhenzhong Lan, et al., arXiv preprint, 2019.
-- QA
-  - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758), Harshith Padigela, et al., arXiv preprint, May 2019.
-  - [BERT with History Answer Embedding for Conversational Question Answering](https://arxiv.org/abs/1905.05412), Chen Qu, et al., arXiv preprint, May 2019.
-  - [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531), Yifan Qiao, et al., arXiv preprint, Apr 2019.
-  - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232), Hu Xu, et al., arXiv preprint, Apr 2019.
-  - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718), Wei Yang, et al., arXiv preprint, Feb 2019.
-  - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634), Chris Alberti, et al., arXiv preprint, Jan 2019.
-  - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085), Rodrigo Nogueira, et al., arXiv preprint, Jan 2019.
-  - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593), Chenguang Zhu, et al., arXiv, Dec 2018.
+### Recent QA Models
+- UnifiedQA: Crossing Format Boundaries With a Single QA System (2020)
+  - Demo: https://unifiedqa.apps.allenai.org/
+- ProQA: Resource-efficient method for pretraining a dense corpus index for open-domain QA and IR. (2020)
+  - paper: https://arxiv.org/pdf/2005.00038.pdf
+  - github: https://github.com/xwhan/ProQA
+- TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages (2020)
+  - paper: https://arxiv.org/ftp/arxiv/papers/2003/2003.05002.pdf
+- Retrospective Reader for Machine Reading Comprehension
+  - paper: https://arxiv.org/pdf/2001.09694v2.pdf
+- TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection (AAAI 2020)
+  - paper: https://arxiv.org/pdf/1911.04118.pdf
+### Recent Language Models
+- [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/pdf?id=r1xMH1BtvB), Kevin Clark, et al., ICLR, 2020.
+- [TinyBERT: Distilling BERT for Natural Language Understanding](https://openreview.net/pdf?id=rJx0Q6EFPB), Xiaoqi Jiao, et al., ICLR, 2020.
+- [MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://arxiv.org/abs/2002.10957), Wenhui Wang, et al., arXiv, 2020.
+- [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683), Colin Raffel, et al., arXiv preprint, 2019.
+- [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129), Zhengyan Zhang, et al., ACL, 2019.
+- [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237), Zhilin Yang, et al., arXiv preprint, 2019.
+- [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942), Zhenzhong Lan, et al., arXiv preprint, 2019.
+- [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), Yinhan Liu, et al., arXiv preprint, 2019.
+- [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/pdf/1910.01108.pdf), Victor sanh, et al., arXiv, 2019.
+- [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/pdf/1907.10529v3.pdf), Mandar Joshi, et al., TACL, 2019.
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), Jacob Devlin, et al., NAACL 2019, 2018.
 ### AAAI 2020
   - [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/pdf/1911.04118.pdf), Siddhant Garg, et al., AAAI 2020, Nov 2019.
 ### ACL 2019
@@ -72,6 +73,15 @@ Question Entailment and Question Answering](https://www.aclweb.org/anthology/W19
   - [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://arxiv.org/pdf/1909.02151v1.pdf), Bill Yuchen Lin, et al., EMNLP-IJCNLP 2019, Sep 2019.
   - [Mixture Content Selection for Diverse Sequence Generation](https://arxiv.org/pdf/1909.01953v1.pdf), Jaemin Cho, et al., EMNLP-IJCNLP 2019, Sep 2019.
   - [A Discrete Hard EM Approach for Weakly Supervised Question Answering](https://arxiv.org/pdf/1909.04849v1.pdf), Sewon Min, et al., EMNLP-IJCNLP, 2019, Sep 2019.
+### Arxiv
+  - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758), Harshith Padigela, et al., arXiv preprint, May 2019.
+  - [BERT with History Answer Embedding for Conversational Question Answering](https://arxiv.org/abs/1905.05412), Chen Qu, et al., arXiv preprint, May 2019.
+  - [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531), Yifan Qiao, et al., arXiv preprint, Apr 2019.
+  - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232), Hu Xu, et al., arXiv preprint, Apr 2019.
+  - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718), Wei Yang, et al., arXiv preprint, Feb 2019.
+  - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634), Chris Alberti, et al., arXiv preprint, Jan 2019.
+  - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085), Rodrigo Nogueira, et al., arXiv preprint, Jan 2019.
+  - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593), Chenguang Zhu, et al., arXiv, Dec 2018.
 ### Dataset
   - [ELI5: Long Form Question Answering](https://arxiv.org/abs/1907.09190), Angela Fan, et al., ACL 2019, Jul 2019
   - [CODAH: An Adversarially-Authored Question Answering Dataset for
